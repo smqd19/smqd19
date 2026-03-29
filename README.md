@@ -231,3 +231,4 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 [![Reallytics](https://img.shields.io/badge/My_Company-reallytics.ai-FF0000?style=for-the-badge)](https://reallytics.ai/)
 
 </div>
+<!-- profile -->
