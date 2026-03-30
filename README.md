@@ -4,14 +4,14 @@
 
 <br/>
 
-**8+ years shipping production AI — from demand forecasting pipelines processing 50M+ records to voice agents handling 10M+ concurrent calls. I build ML systems that move business metrics.**
+**8+ years shipping production AI — from demand forecasting pipelines processing 50M+ records at an AWS Premier Partner to voice agents handling 10M+ concurrent calls at my own company. I build ML systems that move business metrics.**
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qasim-dawood/)
 [![Email](https://img.shields.io/badge/q.shaikh14@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:q.shaikh14@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCZMc7kQ70og4PjQN9CFVijA)
 [![Reallytics.ai](https://img.shields.io/badge/Reallytics.ai-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://reallytics.ai/)
-[![Showcase](https://img.shields.io/badge/90+_AI_Products-FF0000?style=for-the-badge)](https://github.com/reallyticsai/showcase)
 
 </div>
 
@@ -19,75 +19,127 @@
 
 ## About Me
 
-I'm a **Principal ML Engineer** and **Founder/CEO of [Reallytics.ai](https://reallytics.ai)** with 8+ years of progressive experience — from Data Analyst to leading ML workstreams at an **AWS Premier Consulting Partner** to founding and scaling my own AI company serving clients across North America, Europe, the Middle East, and Australia.
+I'm a **Principal ML Engineer**, **Founder/CEO of [Reallytics.ai](https://reallytics.ai)**, and **AI Educator** with 8+ years of progressive experience building production AI systems.
 
-I've gone from writing SQL queries on IoT sensor data to architecting end-to-end ML infrastructure on AWS (SageMaker, Bedrock, Lambda, Glue, Redshift) serving 3+ enterprise clients simultaneously — and along the way, I founded Reallytics.ai to prove that world-class AI can come from Pakistan.
+My path: Data Analyst (IoT) → Software Engineer (Afiniti, telecom AI) → Senior Data Scientist (9T5/Looper Insights, crypto + CV) → **Principal ML Lead at NorthBay Solutions** (AWS Premier Consulting Partner — 3 years working directly with AWS internal teams on enterprise ML) → **Founded Reallytics.ai** to build and ship AI products for clients across 4 continents.
+
+I've worked as both an **individual contributor** shipping models and a **technical leader** managing cross-functional teams across 6 countries. At NorthBay I handled pre-sales and delivery for enterprise AI engagements. At Reallytics.ai I'm the technical architect behind every product, from concept to production.
 
 **MS Data Science** (NUCES FAST) · **BS Computer Science** (COMSATS)
 
 ---
 
-## Experience
+## Reallytics.ai — My Company
 
-### Reallytics.ai — Founder & CEO / Technical Architect
-`Oct 2020 – Present` · Lahore, Pakistan
+`Founder & CEO / Technical Architect · Oct 2020 – Present`
 
-Founded and scaled a full-stack AI company delivering production-grade GenAI, Voice AI, and Data Science systems. I'm the technical architect behind every product, from concept to production.
+I founded and scaled **[Reallytics.ai](https://reallytics.ai)** — a full-stack AI company delivering production-grade GenAI, Voice AI, and Data Science systems for startups and enterprises across North America, Europe, the Middle East, and Australia. I'm the technical architect behind every product, from concept to production.
 
-| What I Built | Impact |
-|-------------|--------|
-| **Novalytics Voice AI Platform** | Context-aware voice assistants with sub-300ms latency, memory-persistent dialogue. Scaled to 10M+ concurrent calls across healthcare, finance, hospitality |
-| **RAG-Powered LLM Chatbots** | Multi-industry chatbots (Finance, Retail, Healthcare, HR) using LangChain, FAISS, ChromaDB, OpenAI, Claude, Mistral |
-| **Agentic AI Workflows** | Insurance underwriting, multilingual caregiving (100+ languages), admissions automation (50% faster processing). Connected LLMs to databases, APIs, and Slack |
-| **Data Analytics BI Hub** | Power BI + Copilot, Tableau, QuickSight with AI-powered insights and real-time streaming |
-| **LLM Fine-Tuning** | Fine-tuned LLaMA-2/Mistral using LoRA, QLoRA, PEFT — 70% API cost reduction. Served via VLLM/CUDA |
-| **Real Talent** | Platform to vet, train, and connect Pakistani AI talent to international clients. 15+ professionals placed globally |
+We don't just prototype — we ship intelligence that works in real environments.
 
-Led 10+ engineers across 6 countries · 20+ global client engagements · Full CI/CD on AWS (SageMaker, Bedrock, Lambda, ECS/ECR, CodeCatalyst)
+### What We've Built
+
+| Product | What It Does | Live |
+|---------|-------------|------|
+| **Novalytics** | Context-aware voice assistants with sub-300ms latency and memory-persistent dialogue. Deployed across healthcare, finance, hospitality. Scaled to 10M+ concurrent calls | [![Live](https://img.shields.io/badge/-Live-FF0000?style=flat-square)](https://novalytics.reallytics.ai) |
+| **LLM Chatbots** | RAG-powered chatbots for Finance, Retail, Healthcare, and HR using LangChain, FAISS, ChromaDB, OpenAI, Claude, and Mistral | [![Live](https://img.shields.io/badge/-Live-FF0000?style=flat-square)](https://chatbots.reallytics.ai) |
+| **AI Agents Platform** | Agentic workflows: insurance underwriting, multilingual caregiving (100+ languages), admissions automation (50% faster). Connected LLMs to databases, APIs, and Slack | [![Live](https://img.shields.io/badge/-Live-FF0000?style=flat-square)](https://gen-ai.reallytics.ai) |
+| **Data Analytics** | Multi-platform BI hub (Power BI + Copilot, Tableau, QuickSight) with AI-powered insights and real-time streaming | [![Live](https://img.shields.io/badge/-Live-FF0000?style=flat-square)](https://data-analytics-platform.reallytics.ai) |
+| **Fraud Detection** | Real-time ML fraud scoring for financial services | [![Live](https://img.shields.io/badge/-Live-FF0000?style=flat-square)](https://fraud-detection.reallytics.ai) |
+| **Real Talent** | Platform to vet, train, and connect Pakistani AI talent to international clients | [![Live](https://img.shields.io/badge/-Live-FF0000?style=flat-square)](https://real-talent.reallytics.ai) |
+
+**Technical depth:** Fine-tuned LLaMA-2/Mistral using LoRA, QLoRA, PEFT via Hugging Face (70% API cost reduction). Served models via VLLM/CUDA. Cloud infra on AWS: SageMaker, Bedrock, Lambda, Glue, Redshift. Full CI/CD with Docker and CodeCatalyst. Led 10+ engineers across 6 countries, 20+ global client engagements.
 
 <div align="center">
 
-[![See All Products](https://img.shields.io/badge/See_Full_Product_Showcase_(90+_repos)-000000?style=for-the-badge)](https://github.com/reallyticsai/showcase)
+[![See Full Product Showcase (90+ repos)](https://img.shields.io/badge/See_Full_Product_Showcase_(90+_repos)-000000?style=for-the-badge)](https://github.com/reallyticsai/showcase)
 
 </div>
+
+### Real Talent — The Mission
+
+> *Growing up in Lahore, I saw brilliant engineers with world-class skills but zero access to global opportunities. When I broke through to US, UK, and European clients, I promised I'd build a bridge back. That's why I created Real Talent — a platform where I vet, train, and connect Pakistani AI talent to international clients, handle contracts, and manage delivery end-to-end. Today we have a growing pool actively working globally.*
+>
+> *Building Reallytics.ai was about proving world-class AI can come from Pakistan. Real Talent is about making sure I'm not the exception — I'm the beginning.*
+
+### Clients & Partners
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="150"><img src="https://raw.githubusercontent.com/reallyticsai/showcase/main/assets/logos/mars.png" width="70" alt="MARS"/><br/><sub><b>MARS Inc</b></sub></td>
+<td align="center" width="150"><img src="https://raw.githubusercontent.com/reallyticsai/showcase/main/assets/logos/ibm.png" width="70" alt="IBM"/><br/><sub><b>IBM</b></sub></td>
+<td align="center" width="150"><img src="https://raw.githubusercontent.com/reallyticsai/showcase/main/assets/logos/cloud-kinetics.png" width="70" alt="Cloud Kinetics"/><br/><sub><b>Cloud Kinetics</b></sub></td>
+<td align="center" width="150"><img src="https://raw.githubusercontent.com/reallyticsai/showcase/main/assets/logos/dataart.png" width="70" alt="DataArt"/><br/><sub><b>DataArt</b></sub></td>
+<td align="center" width="150"><img src="https://raw.githubusercontent.com/reallyticsai/showcase/main/assets/logos/aws-startups.png" width="70" alt="AWS Startups"/><br/><sub><b>AWS Startups</b></sub></td>
+<td align="center" width="150"><img src="https://raw.githubusercontent.com/reallyticsai/showcase/main/assets/logos/silvertree-brands.png" width="70" alt="Silvertree Brands"/><br/><sub><b>Silvertree Brands</b></sub></td>
+</tr>
+<tr>
+<td align="center" width="150"><img src="https://raw.githubusercontent.com/reallyticsai/showcase/main/assets/logos/4g-capital.webp" width="70" alt="4G Capital"/><br/><sub><b>4G Capital</b></sub></td>
+<td align="center" width="150"><img src="https://raw.githubusercontent.com/reallyticsai/showcase/main/assets/logos/looper-insights.png" width="70" alt="Looper Insights"/><br/><sub><b>Looper Insights UK</b></sub></td>
+<td align="center" width="150"><img src="https://raw.githubusercontent.com/reallyticsai/showcase/main/assets/logos/tower-loan.webp" width="70" alt="Tower Loan"/><br/><sub><b>Tower Loan</b></sub></td>
+<td align="center" width="150"><img src="https://raw.githubusercontent.com/reallyticsai/showcase/main/assets/logos/ashcroft.png" width="70" alt="Ashcroft"/><br/><sub><b>Ashcroft</b></sub></td>
+<td align="center" width="150"><img src="https://raw.githubusercontent.com/reallyticsai/showcase/main/assets/logos/verticiti.png" width="70" alt="Verticiti"/><br/><sub><b>Verticiti</b></sub></td>
+<td align="center" width="150"><img src="https://raw.githubusercontent.com/reallyticsai/showcase/main/assets/logos/cxex.png" width="70" alt="CXEX"/><br/><sub><b>CXEX</b></sub></td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## Prior Experience
 
 ### NorthBay Solutions — Principal Software Engineer / ML Lead
 `Feb 2023 – Feb 2025` · Andover, MA (AWS Premier Consulting Partner)
 
-Led the ML workstream designing and deploying production ML/AI systems for enterprise clients.
+Worked directly with **AWS internal teams** for 3 years, handling pre-sales and delivery for enterprise ML engagements.
 
-- **Demand forecasting** — PySpark on EMR, 50M+ banking/retail records, 40% accuracy improvement over legacy heuristics
-- **AWS ML infrastructure** — SageMaker (training), Lambda (inference), Glue (ETL), Redshift (analytics) serving 3+ clients simultaneously
-- **NLP document intelligence** — AWS Comprehend, Rekognition, custom Transformers automating manual review workflows
-- **Computer vision** — OpenCV + custom CNNs on Lambda with sub-200ms inference latency
+- **Demand forecasting** — PySpark on EMR, 50M+ banking/retail records, 40% accuracy improvement
+- **AWS ML infrastructure** — SageMaker, Lambda, Glue, Redshift serving 3+ clients simultaneously
+- **NLP document intelligence** — AWS Comprehend, Rekognition, custom Transformers
+- **Computer vision** — OpenCV + custom CNNs on Lambda, sub-200ms inference
 - **RAG systems** — LangChain + FAISS + ChromaDB for enterprise knowledge retrieval
-- **LLM fine-tuning** — LLaMA/Mistral with LoRA via Hugging Face for domain-specific use cases
-- **MLOps** — CI/CD via Docker + CodeCatalyst, automated retraining, experiment tracking, ECS/ECR
+- **LLM fine-tuning** — LLaMA/Mistral with LoRA for domain-specific use cases
+- **MLOps** — CI/CD via Docker + CodeCatalyst, ECS/ECR, automated retraining
 - Led 5 data scientists across US, UK, Pakistan
 
 ### 9T5 Pty Ltd — Senior Data Scientist / AI Engineer
 `Apr 2022 – Jan 2023` · Australia (Client: Looper Insights UK)
 
-- **Time-series forecasting** (LSTM, Prophet, ensembles) for crypto markets — 25% directional accuracy improvement
-- **Sentiment analysis** — Fine-tuned BERT via Hugging Face, served at scale with VLLM
-- **Computer vision** — Real-time subject recognition on Lambda processing 10K+ daily inputs
-- **COVID face mask detection** — OpenCV + CNN, 95%+ accuracy for school SOP compliance
-- **RAG knowledge retrieval** — LangChain + ChromaDB for unstructured document comprehension
+- Time-series forecasting (LSTM, Prophet) for crypto — 25% directional accuracy improvement
+- Fine-tuned BERT for sentiment analysis, served at scale with VLLM
+- Computer vision on Lambda processing 10K+ daily inputs
+- COVID face mask detection (95%+ accuracy)
+- RAG knowledge retrieval with LangChain + ChromaDB
 
 ### Afiniti — Software Engineer
 `Aug 2020 – Apr 2022` · Lahore
 
-- ML pipelines for production call-routing optimization on one of the world's largest applied AI platforms in telecom
+- ML pipelines for production call-routing optimization on one of the world's largest applied AI platforms
 - ETL workflows (PySpark, SQL) reducing pipeline failures by 30%
-- A/B testing frameworks for ML-driven routing decisions
 - Feature engineering processing millions of daily call records
 
 ### TechnoDesert — Data Analyst
 `Jan 2018 – Jul 2020` · Lahore
 
-- IoT sensor data analysis (Python, PostgreSQL) across 1000+ endpoints
+- IoT sensor data analysis across 1000+ endpoints
 - Anomaly detection and predictive maintenance using classical ML
-- ETL pipelines and Power BI dashboards replacing manual reporting
+- Power BI dashboards replacing manual reporting
+
+---
+
+## AI Educator
+
+Beyond building, I teach. I design and deliver workshops that help experienced developers level up with Generative AI and modern AI tooling.
+
+| Program | Organization | Details |
+|---------|-------------|---------|
+| **Claude Code Workshop** (ongoing) | [Andela](https://www.andela.com/) | Leading a cohort of 25 engineers — teaching AI coding agents, MCP orchestration, sub-agents, and GitHub workflow integration with Claude Code. Production-oriented AI-assisted development pipelines. |
+| **Generative AI & LLM Masterclass** | [ArhamSoft](https://www.arhamsoft.com/) | 2-month intensive for senior developers — Cursor, Claude Code, prompt engineering, RAG architectures, and practical LLM integration into existing codebases. |
+
+[![YouTube](https://img.shields.io/badge/Lectures_&_Portfolio_Videos-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCZMc7kQ70og4PjQN9CFVijA)
 
 ---
 
@@ -110,7 +162,7 @@ Full-stack agentic chatbot that answers as me — custom RAG with ChromaDB, no L
 ### [Cyber-Physical Guard](https://github.com/smqd19/cyber-physical-guard)
 **Real-Time Fleet Monitoring**
 
-Cold chain monitoring detecting temperature anomalies in cargo trucks with AI recommendations. Built for Google Cloud Hackathon 2025.
+Cold chain monitoring detecting temperature anomalies in cargo trucks with AI recommendations. Google Cloud Hackathon 2025.
 
 `Confluent` `Apache Flink` `Gemini` `FastAPI` `WebSocket`
 
@@ -132,7 +184,7 @@ Three progressively optimized RAG implementations — Bi-Encoder + Cross-Encoder
 ### [Customer Support Agent](https://github.com/smqd19/customer-support-agent)
 **AI Support with MCP**
 
-200+ products, order management, secure PIN auth. GPT-4o-mini with Model Context Protocol on HuggingFace Spaces.
+200+ products, order management, secure PIN auth. GPT-4o-mini with Model Context Protocol.
 
 `Python` `GPT-4o-mini` `MCP` `Gradio`
 
@@ -154,7 +206,7 @@ Unsupervised K-Clique clustering with 8 behavioural features. Django app with li
 ### [Crypto Forecasting Bots](https://github.com/smqd19/Time-Series-Forecasting-and-Crypto-Analysis-Bots-and-Telegram-Discord-Bots)
 **Time-Series + Trading Bots**
 
-ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Discord trading bots.
+ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Discord bots. 4 stars.
 
 `Python` `LSTM` `Prophet` `Telegram` `Discord`
 
@@ -182,6 +234,7 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=flat-square&logoColor=white)
@@ -194,7 +247,7 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![ECS](https://img.shields.io/badge/ECS%2FECR-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Glue](https://img.shields.io/badge/Glue-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Glue](https://img.shields.io/badge/Glue%2FRedshift-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 **Web & Data**
 
@@ -210,25 +263,17 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=smqd19&theme=default&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
 <div align="center">
 
 **Currently exploring senior IC or lead roles in ML/Data Science (remote, US-AUS-UK-based preferred)**
 
+Also open to consulting, AI workshops, and interesting technical challenges.
+
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qasim-dawood/)
 [![Email](https://img.shields.io/badge/q.shaikh14@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:q.shaikh14@gmail.com)
 [![Reallytics](https://img.shields.io/badge/My_Company-reallytics.ai-FF0000?style=for-the-badge)](https://reallytics.ai/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCZMc7kQ70og4PjQN9CFVijA)
 
 </div>
+
 <!-- profile -->
