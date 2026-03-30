@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=3000&pause=1000&color=000000&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=Sheikh+Muhammad+Qasim;Senior+ML Architect &+Engineer+%7C+Founder+%40+Reallytics.ai" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=3000&pause=1000&color=000000&center=true&vCenter=true&repeat=true&width=750&height=45&lines=Sheikh+Muhammad+Qasim" alt="Name" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=0000A0&center=true&vCenter=true&repeat=true&width=750&height=35&lines=ML+Architect+%26+Engineer+%7C+Founder+%40+Reallytics.ai" alt="Title" />
 
 <br/>
 
