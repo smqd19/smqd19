@@ -21,7 +21,7 @@
 
 ## About Me
 
-I'm a **Principal ML Engineer**, **Founder/CEO of [Reallytics.ai](https://reallytics.ai)**, and **AI Educator** with 8+ years of progressive experience building production AI systems.
+I'm an **ML Architect & Engineer**, **Founder/CEO of [Reallytics.ai](https://reallytics.ai)**, and **AI Educator** with 8+ years of progressive experience building production AI systems.
 
 My path: Data Analyst (IoT) → Software Engineer (Afiniti, telecom AI) → Senior Data Scientist (9T5/Looper Insights, crypto + CV) → **Principal ML Lead at NorthBay Solutions** (AWS Premier Consulting Partner — 3 years working directly with AWS internal teams on enterprise ML) → **Founded Reallytics.ai** to build and ship AI products for clients across 4 continents.
 
