@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=4000&pause=9999999&color=000000&center=true&vCenter=true&repeat=false&width=750&height=45&lines=Sheikh+Muhammad+Qasim" alt="Name" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=5000&pause=3000&color=0000A0&center=true&vCenter=true&repeat=true&width=750&height=45&lines=ML+Architect+%26+Engineer;Founder+%40+Reallytics.ai;AI+Educator+%26+Workshop+Lead" alt="Title" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=5000&pause=1500&color=0000A0&center=true&vCenter=true&repeat=true&width=750&height=45&lines=ML+Architect+%26+Engineer;Founder+%40+Reallytics.ai;AI+Educator+%26+Workshop+Lead" alt="Title" />
 
 <br/>
 
