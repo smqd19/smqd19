@@ -62,7 +62,9 @@ We don't just prototype — we ship intelligence that works in real environments
 >
 > *Building Reallytics.ai was about proving world-class AI can come from Pakistan. Real Talent is about making sure I'm not the exception — I'm the beginning.*
 
-### Clients & Partners
+### Companies I've Delivered For
+
+Over 8 years, I've consulted, built, and shipped production AI systems for these organizations — handling everything from pre-sales and architecture to hands-on delivery and team management.
 
 <div align="center">
 
