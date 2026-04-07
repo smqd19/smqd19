@@ -228,7 +228,23 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 *Auto-generated articles with AI-crafted images — published daily to [AI-Engineering-Notes](https://github.com/smqd19/AI-Engineering-Notes)*
 
 <!-- ARTICLES_START -->
-*Publishing daily AI research articles — check back soon!*
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-07-production-rag-pipelines-with-re-ranking.md">
+<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/production-rag-pipelines-with-re-ranking.jpg" width="100%" alt="Production Rag Pipelines With Re Ranking"/>
+</a>
+
+**[Production Rag Pipelines With Re Ranking](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-07-production-rag-pipelines-with-re-ranking.md)**
+<br/><sub>2026-04-07</sub>
+
+</td>
+<td></td>
+</tr>
+</table>
+
+[📚 View all articles →](https://github.com/smqd19/AI-Engineering-Notes)
 <!-- ARTICLES_END -->
 
 ---
@@ -236,13 +252,21 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [On GB10 Spark, llama cpp generation fails with "No next stat](https://github.com/dottxt-ai/outlines) in `dottxt-ai/outlines` <sub>(2026-04-07)</sub>
+
+⭐ Starred `aristoteleo/PantheonOS` <sub>(2026-04-07)</sub>
+
+⭐ Starred `deepset-ai/haystack` <sub>(2026-04-07)</sub>
+
+⭐ Starred `Agent-Field/agentfield` <sub>(2026-04-07)</sub>
+
+⭐ Starred `RobotecAI/rai` <sub>(2026-04-07)</sub>
+
+⭐ Starred `bitsky-tech/bridgic` <sub>(2026-04-07)</sub>
+
 ⭐ Starred `myylogic/cevahir-ai` <sub>(2026-04-07)</sub>
 
 ⭐ Starred `SomeB1oody/RustyML` <sub>(2026-04-07)</sub>
-
-⭐ Starred `tum-pbs/pde-transformer` <sub>(2026-04-07)</sub>
-
-⭐ Starred `kieranjwood/trading-momentum-transformer` <sub>(2026-04-07)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -252,7 +276,7 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
-🔬 Scalable Multimodal Foundation Models for Real-Time Applications
+🔬 Production RAG Pipelines with Re-ranking
 <!-- RESEARCH_END -->
 
 ---
@@ -265,7 +289,7 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-07 13:35 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-07 13:45 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
