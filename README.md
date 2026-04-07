@@ -220,6 +220,55 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 ---
 
+
+---
+
+## 📰 Latest AI Research Articles
+
+*Auto-generated articles with AI-crafted images — published daily to [AI-Engineering-Notes](https://github.com/smqd19/AI-Engineering-Notes)*
+
+<!-- ARTICLES_START -->
+*Publishing daily AI research articles — check back soon!*
+<!-- ARTICLES_END -->
+
+---
+
+## ⚡ Recent Activity
+
+<!-- ACTIVITY_START -->
+⭐ Starred `myylogic/cevahir-ai` <sub>(2026-04-07)</sub>
+
+⭐ Starred `SomeB1oody/RustyML` <sub>(2026-04-07)</sub>
+
+⭐ Starred `tum-pbs/pde-transformer` <sub>(2026-04-07)</sub>
+
+⭐ Starred `kieranjwood/trading-momentum-transformer` <sub>(2026-04-07)</sub>
+<!-- ACTIVITY_END -->
+
+---
+
+## 🔬 Currently Researching
+
+*Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
+
+<!-- RESEARCH_START -->
+🔬 Scalable Multimodal Foundation Models for Real-Time Applications
+<!-- RESEARCH_END -->
+
+---
+
+## 📌 Latest Code Snippets
+
+<!-- GISTS_START -->
+*Publishing code snippets...*
+<!-- GISTS_END -->
+
+<!-- DYNAMIC_SECTIONS_START -->
+
+<sub>🤖 Profile auto-updated on 2026-04-07 13:35 UTC</sub>
+
+<!-- DYNAMIC_SECTIONS_END -->
+
 ## Tech Stack
 
 <div align="center">
