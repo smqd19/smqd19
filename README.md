@@ -1,6 +1,6 @@
-<div align="center">
+<p align="right"><img src="https://komarev.com/ghpvc/?username=smqd19&color=blue&style=flat-square&label=Profile+views" alt="Profile Views" /></p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=smqd19&color=blue&style=flat-square&label=Profile+views)
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=4000&pause=9999999&color=000000&center=true&vCenter=true&repeat=false&width=750&height=45&lines=Sheikh+Muhammad+Qasim" alt="Name" />
 
