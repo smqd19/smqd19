@@ -254,21 +254,21 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [On GB10 Spark, llama cpp generation fails with "No next stat](https://github.com/dottxt-ai/outlines) in `dottxt-ai/outlines` <sub>(2026-04-07)</sub>
+💬 Commented on [K8sStepHandler should respect Job backoffLimit before declar](https://github.com/dagster-io/dagster) in `dagster-io/dagster` <sub>(2026-04-09)</sub>
 
-⭐ Starred `aristoteleo/PantheonOS` <sub>(2026-04-07)</sub>
+💬 Commented on [[Bug] `bf16` GGUF deleted by internal cleanup when exported ](https://github.com/unslothai/unsloth) in `unslothai/unsloth` <sub>(2026-04-09)</sub>
 
-⭐ Starred `deepset-ai/haystack` <sub>(2026-04-07)</sub>
+⭐ Starred `clearml/clearml-serving` <sub>(2026-04-09)</sub>
 
-⭐ Starred `Agent-Field/agentfield` <sub>(2026-04-07)</sub>
+⭐ Starred `mosecorg/mosec` <sub>(2026-04-09)</sub>
 
-⭐ Starred `RobotecAI/rai` <sub>(2026-04-07)</sub>
+⭐ Starred `SeldonIO/seldon-core` <sub>(2026-04-09)</sub>
 
-⭐ Starred `bitsky-tech/bridgic` <sub>(2026-04-07)</sub>
+💬 Commented on [[Feature]: Qwen3.5 训练是否计划支持 Multi-Token Prediction (MTP)](https://github.com/vllm-project/vllm) in `vllm-project/vllm` <sub>(2026-04-08)</sub>
 
-⭐ Starred `myylogic/cevahir-ai` <sub>(2026-04-07)</sub>
+⭐ Starred `NVIDIA-AI-Blueprints/rag` <sub>(2026-04-08)</sub>
 
-⭐ Starred `SomeB1oody/RustyML` <sub>(2026-04-07)</sub>
+⭐ Starred `GiovanniPasq/agentic-rag-for-dummies` <sub>(2026-04-08)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -278,6 +278,10 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 AI Safety and Alignment Engineering
+
+🔬 Agentic Coding Assistants Architecture
+
 🔬 Production RAG Pipelines with Re-ranking
 <!-- RESEARCH_END -->
 
@@ -286,12 +290,12 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## 📌 Latest Code Snippets
 
 <!-- GISTS_START -->
-*Publishing code snippets...*
+📌 **[Cosine Similarity Search with Numpy — Lightweight Vector Matching (Python)](https://gist.github.com/smqd19/10bfcf6ff26939880e009dbcb6e9be5c)** <sub>(2026-04-09)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-07 13:45 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-09 09:25 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
