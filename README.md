@@ -234,6 +234,16 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-10-retrieval-augmented-generation-rag-at-scale.md">
+<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-at-sc.jpg" width="100%" alt="Retrieval Augmented Generation Rag At Scale"/>
+</a>
+
+**[Retrieval Augmented Generation Rag At Scale](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-10-retrieval-augmented-generation-rag-at-scale.md)**
+<br/><sub>2026-04-10</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-07-production-rag-pipelines-with-re-ranking.md">
 <img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/production-rag-pipelines-with-re-ranking.jpg" width="100%" alt="Production Rag Pipelines With Re Ranking"/>
 </a>
@@ -242,7 +252,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <br/><sub>2026-04-07</sub>
 
 </td>
-<td></td>
 </tr>
 </table>
 
@@ -254,21 +263,21 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [[Bug]: Runtime error on ROCm platform serving Deepseek-R1 us](https://github.com/vllm-project/vllm) in `vllm-project/vllm` <sub>(2026-04-10)</sub>
+
+⭐ Starred `linearis-oss/linearis` <sub>(2026-04-10)</sub>
+
+⭐ Starred `sfw/loom` <sub>(2026-04-10)</sub>
+
+⭐ Starred `kirill-markin/repo-to-text` <sub>(2026-04-10)</sub>
+
+⭐ Starred `promptslab/Promptify` <sub>(2026-04-10)</sub>
+
+⭐ Starred `smkalami/prompt-decorators` <sub>(2026-04-10)</sub>
+
 💬 Commented on [K8sStepHandler should respect Job backoffLimit before declar](https://github.com/dagster-io/dagster) in `dagster-io/dagster` <sub>(2026-04-09)</sub>
 
 💬 Commented on [[Bug] `bf16` GGUF deleted by internal cleanup when exported ](https://github.com/unslothai/unsloth) in `unslothai/unsloth` <sub>(2026-04-09)</sub>
-
-⭐ Starred `clearml/clearml-serving` <sub>(2026-04-09)</sub>
-
-⭐ Starred `mosecorg/mosec` <sub>(2026-04-09)</sub>
-
-⭐ Starred `SeldonIO/seldon-core` <sub>(2026-04-09)</sub>
-
-💬 Commented on [[Feature]: Qwen3.5 训练是否计划支持 Multi-Token Prediction (MTP)](https://github.com/vllm-project/vllm) in `vllm-project/vllm` <sub>(2026-04-08)</sub>
-
-⭐ Starred `NVIDIA-AI-Blueprints/rag` <sub>(2026-04-08)</sub>
-
-⭐ Starred `GiovanniPasq/agentic-rag-for-dummies` <sub>(2026-04-08)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -278,6 +287,10 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Fine-Tuning Proprietary Large Language Models for Enterprise Use
+
+🔬 Retrieval-Augmented Generation (RAG) at Scale
+
 🔬 AI Safety and Alignment Engineering
 
 🔬 Agentic Coding Assistants Architecture
@@ -295,7 +308,7 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-09 09:25 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-10 09:25 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
