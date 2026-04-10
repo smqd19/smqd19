@@ -1,0 +1,37 @@
+# Sheikh Muhammad Qasim — ML Architect
+
+> 8+ years building production AI systems at enterprise scale. Founder of Reallytics.ai.
+
+## About
+- Name: Sheikh Muhammad Qasim
+- Role: ML Architect & Founder at Reallytics.ai
+- Expertise: RAG, LLM Fine-Tuning, Voice AI, Multi-Agent Systems, Fraud Detection
+- Location: Lahore, Pakistan
+- Status: Open to senior IC or lead roles in ML/Data Science (remote); also available for consulting
+- GitHub: https://github.com/smqd19
+- LinkedIn: https://linkedin.com/in/smqd19
+- Education: MS Data Science (NUCES FAST) | BS Computer Science (COMSATS)
+
+## Core Competencies
+- Generative AI: LLM fine-tuning (LoRA, QLoRA, PEFT), RLHF (PPO, DPO), prompt engineering, function calling
+- Retrieval-Augmented Generation: FAISS, ChromaDB, PG-Vector, cross-encoder re-ranking, hybrid search
+- Agentic AI: Multi-agent orchestration, tool use, LangChain agents, MCP integration
+- Voice AI: Real-time speech-to-text, 10M+ concurrent calls, sub-300ms latency
+- MLOps: Model serving (vLLM, TorchServe), Docker, Kubernetes, CI/CD, monitoring
+- Cloud: AWS (SageMaker, Bedrock, Lambda), Azure, GCP
+
+## Key Repositories
+- Digital-Me: AI-powered digital clone — Next.js + FastAPI
+- RAG_Technical_Support: RAG-powered support with self-evaluation pipeline
+- LLM_Fine_Tuning_Showdown: Head-to-head comparison of fine-tuning approaches
+- cyber-physical-guard: Fleet monitoring with Confluent Cloud, Flink, and Gemini
+- customer-support-agent: AI chatbot with MCP integration
+
+## Professional Experience
+- Founder & ML Architect at Reallytics.ai — Voice AI, RAG, fraud detection, AI agents
+- Principal ML Lead at NorthBay Solutions — demand forecasting for 50M+ records
+- Senior Data Scientist at 9T5 — crypto forecasting and computer vision
+- Software Engineer at Afiniti — ML pipelines for call-routing optimization
+
+## Last Updated
+- 2026-04-10
