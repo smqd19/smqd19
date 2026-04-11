@@ -263,6 +263,14 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `AgriciDaniel/claude-ads` <sub>(2026-04-11)</sub>
+
+⭐ Starred `RicardoGEsteves/omniscient` <sub>(2026-04-11)</sub>
+
+⭐ Starred `modelence/modelence` <sub>(2026-04-11)</sub>
+
+⭐ Starred `osovv/grace-marketplace` <sub>(2026-04-11)</sub>
+
 💬 Commented on [[Bug]: Runtime error on ROCm platform serving Deepseek-R1 us](https://github.com/vllm-project/vllm) in `vllm-project/vllm` <sub>(2026-04-10)</sub>
 
 ⭐ Starred `linearis-oss/linearis` <sub>(2026-04-10)</sub>
@@ -270,14 +278,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ⭐ Starred `sfw/loom` <sub>(2026-04-10)</sub>
 
 ⭐ Starred `kirill-markin/repo-to-text` <sub>(2026-04-10)</sub>
-
-⭐ Starred `promptslab/Promptify` <sub>(2026-04-10)</sub>
-
-⭐ Starred `smkalami/prompt-decorators` <sub>(2026-04-10)</sub>
-
-💬 Commented on [K8sStepHandler should respect Job backoffLimit before declar](https://github.com/dagster-io/dagster) in `dagster-io/dagster` <sub>(2026-04-09)</sub>
-
-💬 Commented on [[Bug] `bf16` GGUF deleted by internal cleanup when exported ](https://github.com/unslothai/unsloth) in `unslothai/unsloth` <sub>(2026-04-09)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -308,7 +308,7 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-10 09:25 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-11 09:00 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
