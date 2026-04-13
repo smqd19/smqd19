@@ -276,6 +276,12 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [[Bug]: tmux session with x=1000 y=1000 burns CPU in kernel m](https://github.com/OpenHands/OpenHands) in `OpenHands/OpenHands` <sub>(2026-04-13)</sub>
+
+💬 Commented on [any_deps_match().allow() permanently corrupts AssetNode.pare](https://github.com/dagster-io/dagster) in `dagster-io/dagster` <sub>(2026-04-13)</sub>
+
+💬 Commented on [[Feature] Built-in collection versioning for zero-downtime i](https://github.com/chroma-core/chroma) in `chroma-core/chroma` <sub>(2026-04-13)</sub>
+
 📝 Opened issue [[Feature] Built-in collection versioning for zero-downtime i](https://github.com/chroma-core/chroma) in `chroma-core/chroma` <sub>(2026-04-12)</sub>
 
 💬 Commented on [[Feature] Streaming structured generation with partial valid](https://github.com/dottxt-ai/outlines) in `dottxt-ai/outlines` <sub>(2026-04-12)</sub>
@@ -285,12 +291,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ⭐ Starred `AgriciDaniel/claude-ads` <sub>(2026-04-11)</sub>
 
 ⭐ Starred `RicardoGEsteves/omniscient` <sub>(2026-04-11)</sub>
-
-⭐ Starred `modelence/modelence` <sub>(2026-04-11)</sub>
-
-⭐ Starred `osovv/grace-marketplace` <sub>(2026-04-11)</sub>
-
-💬 Commented on [[Bug]: Runtime error on ROCm platform serving Deepseek-R1 us](https://github.com/vllm-project/vllm) in `vllm-project/vllm` <sub>(2026-04-10)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -323,7 +323,7 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-12 09:05 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-13 10:06 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
