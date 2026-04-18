@@ -234,6 +234,16 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-18-model-context-protocol-and-tool-use.md">
+<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/model-context-protocol-and-tool-use.jpg" width="100%" alt="Model Context Protocol And Tool Use"/>
+</a>
+
+**[Model Context Protocol And Tool Use](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-18-model-context-protocol-and-tool-use.md)**
+<br/><sub>2026-04-18</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-14-efficient-large-language-model-deployment.md">
 <img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/efficient-large-language-model-deploymen.jpg" width="100%" alt="Efficient Large Language Model Deployment"/>
 </a>
@@ -242,6 +252,8 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <br/><sub>2026-04-14</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-12-retrieval-augmented-generation-rag-with-vector-d.md">
@@ -252,8 +264,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <br/><sub>2026-04-12</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-10-retrieval-augmented-generation-rag-at-scale.md">
@@ -262,16 +272,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 **[Retrieval Augmented Generation Rag At Scale](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-10-retrieval-augmented-generation-rag-at-scale.md)**
 <br/><sub>2026-04-10</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-07-production-rag-pipelines-with-re-ranking.md">
-<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/production-rag-pipelines-with-re-ranking.jpg" width="100%" alt="Production Rag Pipelines With Re Ranking"/>
-</a>
-
-**[Production Rag Pipelines With Re Ranking](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-07-production-rag-pipelines-with-re-ranking.md)**
-<br/><sub>2026-04-07</sub>
 
 </td>
 </tr>
@@ -285,21 +285,21 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [ChatWithCrewFlow.__init__ makes blocking LLM call at module ](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-04-18)</sub>
+
+💬 Commented on [Flaky test `spaces::simple::tests::test_cosine_stable_prepro](https://github.com/qdrant/qdrant) in `qdrant/qdrant` <sub>(2026-04-18)</sub>
+
+⭐ Starred `GeneralBots/botserver` <sub>(2026-04-18)</sub>
+
+⭐ Starred `axsaucedo/kaos` <sub>(2026-04-18)</sub>
+
+⭐ Starred `ModelEngine-Group/nexent` <sub>(2026-04-18)</sub>
+
+⭐ Starred `johnkf5-ops/the-dev-squad` <sub>(2026-04-18)</sub>
+
 💬 Commented on [How to backfill offline store with UDF-transformed data for ](https://github.com/feast-dev/feast) in `feast-dev/feast` <sub>(2026-04-17)</sub>
 
 💬 Commented on [Incremental mode crashes with "ValueError: Call with_srcs fi](https://github.com/FoundationAgents/MetaGPT) in `FoundationAgents/MetaGPT` <sub>(2026-04-17)</sub>
-
-⭐ Starred `ferrislucas/promptr` <sub>(2026-04-17)</sub>
-
-⭐ Starred `leofan90/Awesome-World-Models` <sub>(2026-04-17)</sub>
-
-⭐ Starred `devill/refakts` <sub>(2026-04-17)</sub>
-
-💬 Commented on [[Bug]: Cant' add model deployed by GPUStack](https://github.com/BerriAI/litellm) in `BerriAI/litellm` <sub>(2026-04-16)</sub>
-
-⭐ Starred `mubaidr/gem-team` <sub>(2026-04-15)</sub>
-
-⭐ Starred `jd-opensource/JoySafeter` <sub>(2026-04-15)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -309,6 +309,8 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Model Context Protocol and Tool Use
+
 🔬 Edge AI for Real-Time Analytics
 
 🔬 Explainability Techniques for Computer Vision Models
@@ -318,8 +320,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 🔬 Explainable AI for Model Debugging
 
 🔬 Efficient Large Language Model Deployment
-
-🔬 Fine-Tuning Large Language Models with LoRA and QLoRA at Scale
 <!-- RESEARCH_END -->
 
 ---
@@ -327,12 +327,14 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## 📌 Latest Code Snippets
 
 <!-- GISTS_START -->
+📌 **[Configuration-Driven ML Pipeline Runner with Validation (Python)](https://gist.github.com/smqd19/d5d29956a414f9862fa91afc24fcead2)** <sub>(2026-04-18)</sub>
+
 📌 **[Cosine Similarity Search with Numpy — Lightweight Vector Matching (Python)](https://gist.github.com/smqd19/10bfcf6ff26939880e009dbcb6e9be5c)** <sub>(2026-04-09)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-17 09:35 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-18 09:06 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
