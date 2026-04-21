@@ -285,6 +285,14 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `natolambert/rlhf-book` <sub>(2026-04-21)</sub>
+
+⭐ Starred `huggingface/alignment-handbook` <sub>(2026-04-21)</sub>
+
+⭐ Starred `hscspring/rl-llm-nlp` <sub>(2026-04-21)</sub>
+
+⭐ Starred `agentscope-ai/OpenJudge` <sub>(2026-04-21)</sub>
+
 ⭐ Starred `baidu/ERNIE-Image` <sub>(2026-04-20)</sub>
 
 ⭐ Starred `YouMind-OpenLab/ai-image-prompts-skill` <sub>(2026-04-20)</sub>
@@ -292,14 +300,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ⭐ Starred `yjyddq/DARE` <sub>(2026-04-20)</sub>
 
 ⭐ Starred `invoke-ai/InvokeAI` <sub>(2026-04-20)</sub>
-
-⭐ Starred `huggingface/diffusion-models-class` <sub>(2026-04-20)</sub>
-
-📝 Opened issue [[Feature] Add real-time streaming evaluation for production ](https://github.com/vibrantlabsai/ragas) in `vibrantlabsai/ragas` <sub>(2026-04-19)</sub>
-
-💬 Commented on [请求对Marco-Nano-Instruct/Marco-Mini-Instruct模型微调的支持](https://github.com/hiyouga/LlamaFactory) in `hiyouga/LlamaFactory` <sub>(2026-04-19)</sub>
-
-💬 Commented on [ChatWithCrewFlow.__init__ makes blocking LLM call at module ](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-04-18)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -309,6 +309,10 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Graph Neural Networks for Recommendation Systems
+
+🔬 Explainable AI for Time Series Forecasting
+
 🔬 Explainability in Deep Learning Models
 
 🔬 Efficient Deployment of Large Language Models
@@ -316,10 +320,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 🔬 Production-Grade Retrieval-Augmented Generation (RAG) for Multimodal Data
 
 🔬 Model Context Protocol and Tool Use
-
-🔬 Edge AI for Real-Time Analytics
-
-🔬 Explainability Techniques for Computer Vision Models
 <!-- RESEARCH_END -->
 
 ---
@@ -327,16 +327,16 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## 📌 Latest Code Snippets
 
 <!-- GISTS_START -->
+📌 **[Async LLM Gateway with Circuit Breaker & Retry — Production Pattern (Python)](https://gist.github.com/smqd19/2d9c398d7ecd4304c2261cd81f6789e9)** <sub>(2026-04-21)</sub>
+
 📌 **[Webhook Event Processor for ML Model Alerts (Python)](https://gist.github.com/smqd19/42b2ca14eb2aee0d3452b54729f74e09)** <sub>(2026-04-20)</sub>
 
 📌 **[Feature Store Client — Consistent Features for Training & Serving (Python)](https://gist.github.com/smqd19/8fc6f381a9440f2970c678ddc76b1bc6)** <sub>(2026-04-19)</sub>
-
-📌 **[Configuration-Driven ML Pipeline Runner with Validation (Python)](https://gist.github.com/smqd19/d5d29956a414f9862fa91afc24fcead2)** <sub>(2026-04-18)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-20 10:09 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-21 09:50 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
