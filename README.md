@@ -234,6 +234,16 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-22-fine-tuning-foundation-models-for-domain-specific-.md">
+<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/fine-tuning-foundation-models-for-domain.jpg" width="100%" alt="Fine Tuning Foundation Models For Domain Specific "/>
+</a>
+
+**[Fine Tuning Foundation Models For Domain Specific ](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-22-fine-tuning-foundation-models-for-domain-specific-.md)**
+<br/><sub>2026-04-22</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-20-efficient-deployment-of-large-language-models.md">
 <img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/efficient-deployment-of-large-language-m.jpg" width="100%" alt="Efficient Deployment Of Large Language Models"/>
 </a>
@@ -242,6 +252,8 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <br/><sub>2026-04-20</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-18-model-context-protocol-and-tool-use.md">
@@ -252,8 +264,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <br/><sub>2026-04-18</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-14-efficient-large-language-model-deployment.md">
@@ -262,16 +272,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 **[Efficient Large Language Model Deployment](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-14-efficient-large-language-model-deployment.md)**
 <br/><sub>2026-04-14</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-12-retrieval-augmented-generation-rag-with-vector-d.md">
-<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-with.jpg" width="100%" alt="Retrieval Augmented Generation Rag With Vector D"/>
-</a>
-
-**[Retrieval Augmented Generation Rag With Vector D](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-12-retrieval-augmented-generation-rag-with-vector-d.md)**
-<br/><sub>2026-04-12</sub>
 
 </td>
 </tr>
@@ -285,6 +285,14 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `elizaOS/eliza` <sub>(2026-04-22)</sub>
+
+⭐ Starred `SpharxTeam/AgentOS` <sub>(2026-04-22)</sub>
+
+⭐ Starred `RLinf/RLinf` <sub>(2026-04-22)</sub>
+
+⭐ Starred `memex-lab/memex` <sub>(2026-04-22)</sub>
+
 ⭐ Starred `natolambert/rlhf-book` <sub>(2026-04-21)</sub>
 
 ⭐ Starred `huggingface/alignment-handbook` <sub>(2026-04-21)</sub>
@@ -292,14 +300,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ⭐ Starred `hscspring/rl-llm-nlp` <sub>(2026-04-21)</sub>
 
 ⭐ Starred `agentscope-ai/OpenJudge` <sub>(2026-04-21)</sub>
-
-⭐ Starred `baidu/ERNIE-Image` <sub>(2026-04-20)</sub>
-
-⭐ Starred `YouMind-OpenLab/ai-image-prompts-skill` <sub>(2026-04-20)</sub>
-
-⭐ Starred `yjyddq/DARE` <sub>(2026-04-20)</sub>
-
-⭐ Starred `invoke-ai/InvokeAI` <sub>(2026-04-20)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -309,6 +309,10 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Real-Time Inference Optimization for Large Language Models
+
+🔬 Fine-Tuning Foundation Models for Domain-Specific Applications
+
 🔬 Graph Neural Networks for Recommendation Systems
 
 🔬 Explainable AI for Time Series Forecasting
@@ -316,10 +320,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 🔬 Explainability in Deep Learning Models
 
 🔬 Efficient Deployment of Large Language Models
-
-🔬 Production-Grade Retrieval-Augmented Generation (RAG) for Multimodal Data
-
-🔬 Model Context Protocol and Tool Use
 <!-- RESEARCH_END -->
 
 ---
@@ -336,7 +336,7 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-21 09:50 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-22 09:52 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
