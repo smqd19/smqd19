@@ -234,6 +234,16 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-24-real-world-applications-of-reinforcement-learning-.md">
+<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/real-world-applications-of-reinforcement.jpg" width="100%" alt="Real World Applications Of Reinforcement Learning "/>
+</a>
+
+**[Real World Applications Of Reinforcement Learning ](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-24-real-world-applications-of-reinforcement-learning-.md)**
+<br/><sub>2026-04-24</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-23-real-time-time-series-forecasting-with-streaming-d.md">
 <img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/real-time-time-series-forecasting-with-s.jpg" width="100%" alt="Real Time Time Series Forecasting With Streaming D"/>
 </a>
@@ -242,6 +252,8 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <br/><sub>2026-04-23</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-22-fine-tuning-foundation-models-for-domain-specific-.md">
@@ -252,8 +264,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <br/><sub>2026-04-22</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-20-efficient-deployment-of-large-language-models.md">
@@ -262,16 +272,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 **[Efficient Deployment Of Large Language Models](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-20-efficient-deployment-of-large-language-models.md)**
 <br/><sub>2026-04-20</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-18-model-context-protocol-and-tool-use.md">
-<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/model-context-protocol-and-tool-use.jpg" width="100%" alt="Model Context Protocol And Tool Use"/>
-</a>
-
-**[Model Context Protocol And Tool Use](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-18-model-context-protocol-and-tool-use.md)**
-<br/><sub>2026-04-18</sub>
 
 </td>
 </tr>
@@ -285,21 +285,21 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+📝 Opened issue [[Feature] Native ML experiment tracking integration](https://github.com/dagster-io/dagster) in `dagster-io/dagster` <sub>(2026-04-24)</sub>
+
+⭐ Starred `NavodPeiris/speechlib` <sub>(2026-04-24)</sub>
+
+⭐ Starred `AkagawaTsurunaki/zerolan-core` <sub>(2026-04-24)</sub>
+
+⭐ Starred `royshil/obs-localvocal` <sub>(2026-04-24)</sub>
+
+⭐ Starred `HumeAI/hume-python-sdk` <sub>(2026-04-24)</sub>
+
+⭐ Starred `NVIDIA-NeMo/NeMo` <sub>(2026-04-24)</sub>
+
 ⭐ Starred `BlazeUp-AI/Observal` <sub>(2026-04-23)</sub>
 
 ⭐ Starred `shibing624/agentica` <sub>(2026-04-23)</sub>
-
-⭐ Starred `fetchai/uAgents` <sub>(2026-04-23)</sub>
-
-⭐ Starred `openai/openai-agents-python` <sub>(2026-04-23)</sub>
-
-⭐ Starred `cyanheads/mcp-ts-core` <sub>(2026-04-23)</sub>
-
-⭐ Starred `elizaOS/eliza` <sub>(2026-04-22)</sub>
-
-⭐ Starred `SpharxTeam/AgentOS` <sub>(2026-04-22)</sub>
-
-⭐ Starred `RLinf/RLinf` <sub>(2026-04-22)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -309,6 +309,10 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Edge AI for IoT Devices with Constrained Resources
+
+🔬 Real-World Applications of Reinforcement Learning from Human Feedback (RLHF)
+
 🔬 AutoML for Edge Devices
 
 🔬 Real-time Time Series Forecasting with Streaming Data
@@ -316,10 +320,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 🔬 Real-Time Inference Optimization for Large Language Models
 
 🔬 Fine-Tuning Foundation Models for Domain-Specific Applications
-
-🔬 Graph Neural Networks for Recommendation Systems
-
-🔬 Explainable AI for Time Series Forecasting
 <!-- RESEARCH_END -->
 
 ---
@@ -327,16 +327,16 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## 📌 Latest Code Snippets
 
 <!-- GISTS_START -->
+📌 **[Prompt Version Control & A/B Testing Registry (Python)](https://gist.github.com/smqd19/305ec45f03a889bb37a9fecbcb7634b6)** <sub>(2026-04-24)</sub>
+
 📌 **[Async LLM Gateway with Circuit Breaker & Retry — Production Pattern (Python)](https://gist.github.com/smqd19/2d9c398d7ecd4304c2261cd81f6789e9)** <sub>(2026-04-21)</sub>
 
 📌 **[Webhook Event Processor for ML Model Alerts (Python)](https://gist.github.com/smqd19/42b2ca14eb2aee0d3452b54729f74e09)** <sub>(2026-04-20)</sub>
-
-📌 **[Feature Store Client — Consistent Features for Training & Serving (Python)](https://gist.github.com/smqd19/8fc6f381a9440f2970c678ddc76b1bc6)** <sub>(2026-04-19)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-23 10:00 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-24 09:58 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
