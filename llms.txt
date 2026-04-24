@@ -34,4 +34,4 @@
 - Software Engineer at Afiniti — ML pipelines for call-routing optimization
 
 ## Last Updated
-- 2026-04-14
+- 2026-04-24
