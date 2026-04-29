@@ -234,6 +234,16 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-29-multi-agent-ai-orchestration-patterns.md">
+<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/multi-agent-ai-orchestration-patterns.jpg" width="100%" alt="Multi Agent Ai Orchestration Patterns"/>
+</a>
+
+**[Multi Agent Ai Orchestration Patterns](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-29-multi-agent-ai-orchestration-patterns.md)**
+<br/><sub>2026-04-29</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-28-explainability-and-transparency-in-ai.md">
 <img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/explainability-and-transparency-in-ai.jpg" width="100%" alt="Explainability And Transparency In Ai"/>
 </a>
@@ -242,6 +252,8 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <br/><sub>2026-04-28</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-26-real-time-multimodal-ai-systems-for-edge-devices.md">
@@ -252,8 +264,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <br/><sub>2026-04-26</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-25-llm-fine-tuning-at-scale-with-lora.md">
@@ -262,16 +272,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 **[Llm Fine Tuning At Scale With Lora](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-25-llm-fine-tuning-at-scale-with-lora.md)**
 <br/><sub>2026-04-25</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-24-real-world-applications-of-reinforcement-learning-.md">
-<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/real-world-applications-of-reinforcement.jpg" width="100%" alt="Real World Applications Of Reinforcement Learning "/>
-</a>
-
-**[Real World Applications Of Reinforcement Learning ](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-24-real-world-applications-of-reinforcement-learning-.md)**
-<br/><sub>2026-04-24</sub>
 
 </td>
 </tr>
@@ -285,6 +285,12 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `zhinkgit/embeddedskills` <sub>(2026-04-29)</sub>
+
+⭐ Starred `Corbell-AI/Corbell` <sub>(2026-04-29)</sub>
+
+⭐ Starred `kyaukyuai/gpt-all-star` <sub>(2026-04-29)</sub>
+
 ⭐ Starred `catlog22/maestro-flow` <sub>(2026-04-28)</sub>
 
 ⭐ Starred `ComposioHQ/agent-orchestrator` <sub>(2026-04-28)</sub>
@@ -294,12 +300,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ⭐ Starred `labsai/EDDI` <sub>(2026-04-28)</sub>
 
 💬 Commented on [RFC: Improve code to resolve LoRA variants](https://github.com/huggingface/peft) in `huggingface/peft` <sub>(2026-04-27)</sub>
-
-💬 Commented on [Tool suggestion: BuyWhere MCP for real-time Singapore e-comm](https://github.com/microsoft/autogen) in `microsoft/autogen` <sub>(2026-04-27)</sub>
-
-⭐ Starred `caraml-dev/merlin` <sub>(2026-04-27)</sub>
-
-⭐ Starred `awslabs/data-on-eks` <sub>(2026-04-27)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -309,6 +309,8 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Multi-Agent AI Orchestration Patterns
+
 🔬 Synthetic Data Generation for ML
 
 🔬 Explainability and Transparency in AI
@@ -318,8 +320,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 🔬 Real-Time Multimodal AI Systems for Edge Devices
 
 🔬 LLM Fine-Tuning at Scale with LoRA
-
-🔬 Edge AI for IoT Devices with Constrained Resources
 <!-- RESEARCH_END -->
 
 ---
@@ -336,7 +336,7 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-28 10:29 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-29 10:19 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
