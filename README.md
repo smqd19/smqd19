@@ -234,6 +234,16 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-05-02-retrieval-augmented-generation-rag-for-enterpris.md">
+<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-for-e.jpg" width="100%" alt="Retrieval Augmented Generation Rag For Enterpris"/>
+</a>
+
+**[Retrieval Augmented Generation Rag For Enterpris](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-05-02-retrieval-augmented-generation-rag-for-enterpris.md)**
+<br/><sub>2026-05-02</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-05-01-efficient-large-language-model-deployment.md">
 <img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/efficient-large-language-model-deploymen.jpg" width="100%" alt="Efficient Large Language Model Deployment"/>
 </a>
@@ -242,6 +252,8 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <br/><sub>2026-05-01</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-29-multi-agent-ai-orchestration-patterns.md">
@@ -252,8 +264,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <br/><sub>2026-04-29</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-28-explainability-and-transparency-in-ai.md">
@@ -262,16 +272,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 **[Explainability And Transparency In Ai](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-28-explainability-and-transparency-in-ai.md)**
 <br/><sub>2026-04-28</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-26-real-time-multimodal-ai-systems-for-edge-devices.md">
-<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/real-time-multimodal-ai-systems-for-edge.jpg" width="100%" alt="Real Time Multimodal Ai Systems For Edge Devices"/>
-</a>
-
-**[Real Time Multimodal Ai Systems For Edge Devices](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-26-real-time-multimodal-ai-systems-for-edge-devices.md)**
-<br/><sub>2026-04-26</sub>
 
 </td>
 </tr>
@@ -309,6 +309,8 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Retrieval-Augmented Generation (RAG) for Enterprise Search
+
 🔬 Explainable AI for Time Series Forecasting
 
 🔬 Efficient Large Language Model Deployment
@@ -318,8 +320,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 🔬 Production RAG Pipelines with Re-ranking
 
 🔬 Multi-Agent AI Orchestration Patterns
-
-🔬 Synthetic Data Generation for ML
 <!-- RESEARCH_END -->
 
 ---
@@ -336,7 +336,7 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-01 09:57 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-02 09:16 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
