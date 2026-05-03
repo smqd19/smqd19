@@ -234,6 +234,16 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-05-03-real-time-data-quality-monitoring-for-ml-pipelines.md">
+<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/real-time-data-quality-monitoring-for-ml.jpg" width="100%" alt="Real Time Data Quality Monitoring For Ml Pipelines"/>
+</a>
+
+**[Real Time Data Quality Monitoring For Ml Pipelines](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-05-03-real-time-data-quality-monitoring-for-ml-pipelines.md)**
+<br/><sub>2026-05-03</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-05-02-retrieval-augmented-generation-rag-for-enterpris.md">
 <img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-for-e.jpg" width="100%" alt="Retrieval Augmented Generation Rag For Enterpris"/>
 </a>
@@ -242,6 +252,8 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <br/><sub>2026-05-02</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-05-01-efficient-large-language-model-deployment.md">
@@ -252,8 +264,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <br/><sub>2026-05-01</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-29-multi-agent-ai-orchestration-patterns.md">
@@ -262,16 +272,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 **[Multi Agent Ai Orchestration Patterns](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-29-multi-agent-ai-orchestration-patterns.md)**
 <br/><sub>2026-04-29</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-28-explainability-and-transparency-in-ai.md">
-<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/explainability-and-transparency-in-ai.jpg" width="100%" alt="Explainability And Transparency In Ai"/>
-</a>
-
-**[Explainability And Transparency In Ai](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-04-28-explainability-and-transparency-in-ai.md)**
-<br/><sub>2026-04-28</sub>
 
 </td>
 </tr>
@@ -285,21 +285,21 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [Feature Request: Improve offline support for custom architec](https://github.com/huggingface/peft) in `huggingface/peft` <sub>(2026-05-03)</sub>
+
+💬 Commented on [Third-party architecture audit notes from agchk](https://github.com/FoundationAgents/MetaGPT) in `FoundationAgents/MetaGPT` <sub>(2026-05-03)</sub>
+
+⭐ Starred `AutoArk/TinyEngram` <sub>(2026-05-03)</sub>
+
+⭐ Starred `hemangjoshi37a/TrendMaster` <sub>(2026-05-03)</sub>
+
+⭐ Starred `OpenMOSS/MOSS-Audio-Tokenizer` <sub>(2026-05-03)</sub>
+
 💬 Commented on [[Bug]: Vertex AI Gemini fails to resolve tool calls when his](https://github.com/BerriAI/litellm) in `BerriAI/litellm` <sub>(2026-05-01)</sub>
 
 ⭐ Starred `UrsushoribilisMusic/agentic-fleet-hub` <sub>(2026-05-01)</sub>
 
 ⭐ Starred `CopilotKit/CopilotKit` <sub>(2026-05-01)</sub>
-
-⭐ Starred `neuron-core/neuron-ai` <sub>(2026-05-01)</sub>
-
-💬 Commented on [Third-party architecture audit notes from agchk](https://github.com/microsoft/autogen) in `microsoft/autogen` <sub>(2026-04-30)</sub>
-
-⭐ Starred `Julpygo/Claude-Code-AI-Design` <sub>(2026-04-30)</sub>
-
-⭐ Starred `NVlabs/sage` <sub>(2026-04-30)</sub>
-
-⭐ Starred `SamurAIGPT/Generative-Media-Skills` <sub>(2026-04-30)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -309,6 +309,8 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Real-Time Data Quality Monitoring for ML Pipelines
+
 🔬 Retrieval-Augmented Generation (RAG) for Enterprise Search
 
 🔬 Explainable AI for Time Series Forecasting
@@ -318,8 +320,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 🔬 AI Safety and Alignment Engineering
 
 🔬 Production RAG Pipelines with Re-ranking
-
-🔬 Multi-Agent AI Orchestration Patterns
 <!-- RESEARCH_END -->
 
 ---
@@ -327,16 +327,16 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## 📌 Latest Code Snippets
 
 <!-- GISTS_START -->
+📌 **[Structured Output Parser with JSON Schema Validation for LLMs (Python)](https://gist.github.com/smqd19/46217baf0174fd37f196a9084bf535ef)** <sub>(2026-05-03)</sub>
+
 📌 **[Retry with Exponential Backoff & Jitter — Production HTTP Client (Python)](https://gist.github.com/smqd19/0c58ec490e1afc8946ea86c4577be3e7)** <sub>(2026-04-25)</sub>
 
 📌 **[Prompt Version Control & A/B Testing Registry (Python)](https://gist.github.com/smqd19/305ec45f03a889bb37a9fecbcb7634b6)** <sub>(2026-04-24)</sub>
-
-📌 **[Async LLM Gateway with Circuit Breaker & Retry — Production Pattern (Python)](https://gist.github.com/smqd19/2d9c398d7ecd4304c2261cd81f6789e9)** <sub>(2026-04-21)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-02 09:16 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-03 09:30 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
