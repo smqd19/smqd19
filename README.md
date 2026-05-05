@@ -285,21 +285,21 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [CUDA 13 compilation failure (MSVC / NVCC): invalid identifie](https://github.com/facebookresearch/faiss) in `facebookresearch/faiss` <sub>(2026-05-04)</sub>
+📝 Opened issue [[Feature] Agent memory export/import for portable agent stat](https://github.com/letta-ai/letta) in `letta-ai/letta` <sub>(2026-05-05)</sub>
 
-⭐ Starred `kdcokenny/opencode-workspace` <sub>(2026-05-04)</sub>
+💬 Commented on [[Feature]: Support Anthropic-native response format for /v1/](https://github.com/BerriAI/litellm) in `BerriAI/litellm` <sub>(2026-05-05)</sub>
 
-⭐ Starred `first-fluke/oh-my-agent` <sub>(2026-05-04)</sub>
+💬 Commented on [[Bug]: GPT-OSS-20B repeats itself for some prompts](https://github.com/vllm-project/vllm) in `vllm-project/vllm` <sub>(2026-05-05)</sub>
 
-⭐ Starred `phodal/routa` <sub>(2026-05-04)</sub>
+⭐ Starred `genkit-ai/genkit` <sub>(2026-05-05)</sub>
 
-💬 Commented on [Feature Request: Improve offline support for custom architec](https://github.com/huggingface/peft) in `huggingface/peft` <sub>(2026-05-03)</sub>
+⭐ Starred `langchain-ai/langgraph` <sub>(2026-05-05)</sub>
 
-💬 Commented on [Third-party architecture audit notes from agchk](https://github.com/FoundationAgents/MetaGPT) in `FoundationAgents/MetaGPT` <sub>(2026-05-03)</sub>
+⭐ Starred `langchain-ai/langgraphjs` <sub>(2026-05-05)</sub>
 
-⭐ Starred `AutoArk/TinyEngram` <sub>(2026-05-03)</sub>
+⭐ Starred `AstrBotDevs/AstrBot` <sub>(2026-05-05)</sub>
 
-⭐ Starred `hemangjoshi37a/TrendMaster` <sub>(2026-05-03)</sub>
+⭐ Starred `henrydaum/second-brain` <sub>(2026-05-05)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -336,7 +336,7 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-04 10:24 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-05 10:15 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
