@@ -285,21 +285,21 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
-📝 Opened issue [[Feature] Agent memory export/import for portable agent stat](https://github.com/letta-ai/letta) in `letta-ai/letta` <sub>(2026-05-05)</sub>
+⭐ Starred `christinminor459/OnionClaw` <sub>(2026-05-07)</sub>
 
-💬 Commented on [[Feature]: Support Anthropic-native response format for /v1/](https://github.com/BerriAI/litellm) in `BerriAI/litellm` <sub>(2026-05-05)</sub>
+⭐ Starred `Dicklesworthstone/ultimate_bug_scanner` <sub>(2026-05-07)</sub>
 
-💬 Commented on [[Bug]: GPT-OSS-20B repeats itself for some prompts](https://github.com/vllm-project/vllm) in `vllm-project/vllm` <sub>(2026-05-05)</sub>
+⭐ Starred `langgenius/dify` <sub>(2026-05-07)</sub>
 
-⭐ Starred `genkit-ai/genkit` <sub>(2026-05-05)</sub>
+⭐ Starred `badlogic/pi-mono` <sub>(2026-05-07)</sub>
 
-⭐ Starred `langchain-ai/langgraph` <sub>(2026-05-05)</sub>
+⭐ Starred `vercel/ai` <sub>(2026-05-07)</sub>
 
-⭐ Starred `langchain-ai/langgraphjs` <sub>(2026-05-05)</sub>
+💬 Commented on [📝 Integration Proposal: CAJAL — Scientific Paper Role](https://github.com/FoundationAgents/MetaGPT) in `FoundationAgents/MetaGPT` <sub>(2026-05-06)</sub>
 
-⭐ Starred `AstrBotDevs/AstrBot` <sub>(2026-05-05)</sub>
+💬 Commented on [Compliance-as-Code + Trust Score protocols for regulated ind](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-05-06)</sub>
 
-⭐ Starred `henrydaum/second-brain` <sub>(2026-05-05)</sub>
+⭐ Starred `LudovicTuncay/Audio-JEPA` <sub>(2026-05-06)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -327,16 +327,16 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## 📌 Latest Code Snippets
 
 <!-- GISTS_START -->
+📌 **[Embedding Cache with LRU + Disk Persistence — RAG Optimization (Python)](https://gist.github.com/smqd19/b22b63f9d000570d9cf628c695a80d45)** <sub>(2026-05-07)</sub>
+
+📌 **[Token Budget Manager — LLM Context Window Optimization (Python)](https://gist.github.com/smqd19/15320374a347eee5d9a71bd0d8e22176)** <sub>(2026-05-06)</sub>
+
 📌 **[Structured Output Parser with JSON Schema Validation for LLMs (Python)](https://gist.github.com/smqd19/46217baf0174fd37f196a9084bf535ef)** <sub>(2026-05-03)</sub>
-
-📌 **[Retry with Exponential Backoff & Jitter — Production HTTP Client (Python)](https://gist.github.com/smqd19/0c58ec490e1afc8946ea86c4577be3e7)** <sub>(2026-04-25)</sub>
-
-📌 **[Prompt Version Control & A/B Testing Registry (Python)](https://gist.github.com/smqd19/305ec45f03a889bb37a9fecbcb7634b6)** <sub>(2026-04-24)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-05 10:15 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-07 10:35 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
