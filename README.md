@@ -285,21 +285,21 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+📝 Opened issue [[Feature] Built-in feature drift detection with alerting](https://github.com/feast-dev/feast) in `feast-dev/feast` <sub>(2026-05-09)</sub>
+
+💬 Commented on [[Bug] Gemma4 doesn't support HiCache file/L3 storage](https://github.com/sgl-project/sglang) in `sgl-project/sglang` <sub>(2026-05-09)</sub>
+
+⭐ Starred `EvolvingLMMs-Lab/NEO` <sub>(2026-05-09)</sub>
+
+⭐ Starred `patrick-tssn/Awesome-Colorful-LLM` <sub>(2026-05-09)</sub>
+
+⭐ Starred `kyegomez/PALI3` <sub>(2026-05-09)</sub>
+
+⭐ Starred `TIGER-AI-Lab/VLM2Vec` <sub>(2026-05-09)</sub>
+
 💬 Commented on [[BUG] Create Experiment name validator swallows network/serv](https://github.com/mlflow/mlflow) in `mlflow/mlflow` <sub>(2026-05-08)</sub>
 
 💬 Commented on [query(where=...) raises 'Error finding id' after batched add](https://github.com/chroma-core/chroma) in `chroma-core/chroma` <sub>(2026-05-08)</sub>
-
-⭐ Starred `ZHangZHengEric/Sage` <sub>(2026-05-08)</sub>
-
-⭐ Starred `hexabot-ai/Hexabot` <sub>(2026-05-08)</sub>
-
-⭐ Starred `0ca/BoxPwnr` <sub>(2026-05-08)</sub>
-
-⭐ Starred `JetBrains/koog` <sub>(2026-05-08)</sub>
-
-⭐ Starred `pydantic/pydantic-ai` <sub>(2026-05-08)</sub>
-
-⭐ Starred `christinminor459/OnionClaw` <sub>(2026-05-07)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -336,7 +336,7 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-08 09:51 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-09 09:31 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
