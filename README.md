@@ -234,6 +234,16 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-05-11-fine-tuning-large-multimodal-models-llms--visual.md">
+<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/fine-tuning-large-multimodal-models-llms.jpg" width="100%" alt="Fine Tuning Large Multimodal Models Llms  Visual"/>
+</a>
+
+**[Fine Tuning Large Multimodal Models Llms  Visual](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-05-11-fine-tuning-large-multimodal-models-llms--visual.md)**
+<br/><sub>2026-05-11</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-05-10-graph-rag-and-knowledge-graphs-for-llms.md">
 <img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/graph-rag-and-knowledge-graphs-for-llms.jpg" width="100%" alt="Graph Rag And Knowledge Graphs For Llms"/>
 </a>
@@ -242,6 +252,8 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <br/><sub>2026-05-10</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-05-04-explainable-ai-for-deep-learning-models.md">
@@ -252,8 +264,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <br/><sub>2026-05-04</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-05-03-real-time-data-quality-monitoring-for-ml-pipelines.md">
@@ -262,16 +272,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 **[Real Time Data Quality Monitoring For Ml Pipelines](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-05-03-real-time-data-quality-monitoring-for-ml-pipelines.md)**
 <br/><sub>2026-05-03</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-05-02-retrieval-augmented-generation-rag-for-enterpris.md">
-<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-for-e.jpg" width="100%" alt="Retrieval Augmented Generation Rag For Enterpris"/>
-</a>
-
-**[Retrieval Augmented Generation Rag For Enterpris](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-05-02-retrieval-augmented-generation-rag-for-enterpris.md)**
-<br/><sub>2026-05-02</sub>
 
 </td>
 </tr>
@@ -285,6 +285,10 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `jd-opensource/xllm` <sub>(2026-05-11)</sub>
+
+⭐ Starred `asigatchov/fast-volleyball-tracking-inference` <sub>(2026-05-11)</sub>
+
 💬 Commented on [[dagster-dbt] DbtProjectComponent silently drops isolated db](https://github.com/dagster-io/dagster) in `dagster-io/dagster` <sub>(2026-05-10)</sub>
 
 💬 Commented on [[BUG] openai_compatible gateway provider crashes with KeyErr](https://github.com/mlflow/mlflow) in `mlflow/mlflow` <sub>(2026-05-10)</sub>
@@ -296,10 +300,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ⭐ Starred `EvolvingLMMs-Lab/NEO` <sub>(2026-05-09)</sub>
 
 ⭐ Starred `patrick-tssn/Awesome-Colorful-LLM` <sub>(2026-05-09)</sub>
-
-⭐ Starred `kyegomez/PALI3` <sub>(2026-05-09)</sub>
-
-⭐ Starred `TIGER-AI-Lab/VLM2Vec` <sub>(2026-05-09)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -309,6 +309,10 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Real-Time Inference with Low Latency for Foundation Models
+
+🔬 Fine-Tuning Large Multimodal Models (LLMs + Visual + Audio) for Enterprise Applications
+
 🔬 Graph RAG and Knowledge Graphs for LLMs
 
 🔬 Explainable AI for Deep Learning Models
@@ -316,10 +320,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 🔬 Real-Time Data Quality Monitoring for ML Pipelines
 
 🔬 Retrieval-Augmented Generation (RAG) for Enterprise Search
-
-🔬 Explainable AI for Time Series Forecasting
-
-🔬 Efficient Large Language Model Deployment
 <!-- RESEARCH_END -->
 
 ---
@@ -336,7 +336,7 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-10 09:50 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-11 11:38 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
