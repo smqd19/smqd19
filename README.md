@@ -285,6 +285,8 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `walkinglabs/hands-on-modern-rl` <sub>(2026-05-12)</sub>
+
 ⭐ Starred `jd-opensource/xllm` <sub>(2026-05-11)</sub>
 
 ⭐ Starred `asigatchov/fast-volleyball-tracking-inference` <sub>(2026-05-11)</sub>
@@ -298,8 +300,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 💬 Commented on [[Bug] Gemma4 doesn't support HiCache file/L3 storage](https://github.com/sgl-project/sglang) in `sgl-project/sglang` <sub>(2026-05-09)</sub>
 
 ⭐ Starred `EvolvingLMMs-Lab/NEO` <sub>(2026-05-09)</sub>
-
-⭐ Starred `patrick-tssn/Awesome-Colorful-LLM` <sub>(2026-05-09)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -309,6 +309,8 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Synthetic Data Generation for Rare Event Simulation
+
 🔬 Real-Time Inference with Low Latency for Foundation Models
 
 🔬 Fine-Tuning Large Multimodal Models (LLMs + Visual + Audio) for Enterprise Applications
@@ -318,8 +320,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 🔬 Explainable AI for Deep Learning Models
 
 🔬 Real-Time Data Quality Monitoring for ML Pipelines
-
-🔬 Retrieval-Augmented Generation (RAG) for Enterprise Search
 <!-- RESEARCH_END -->
 
 ---
@@ -336,7 +336,7 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-11 11:38 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-12 10:42 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
