@@ -285,6 +285,12 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `roomi-fields/notebooklm-mcp` <sub>(2026-05-13)</sub>
+
+⭐ Starred `markdown-viewer/skills` <sub>(2026-05-13)</sub>
+
+⭐ Starred `Xthebuilder/JRVS` <sub>(2026-05-13)</sub>
+
 ⭐ Starred `walkinglabs/hands-on-modern-rl` <sub>(2026-05-12)</sub>
 
 ⭐ Starred `jd-opensource/xllm` <sub>(2026-05-11)</sub>
@@ -294,12 +300,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 💬 Commented on [[dagster-dbt] DbtProjectComponent silently drops isolated db](https://github.com/dagster-io/dagster) in `dagster-io/dagster` <sub>(2026-05-10)</sub>
 
 💬 Commented on [[BUG] openai_compatible gateway provider crashes with KeyErr](https://github.com/mlflow/mlflow) in `mlflow/mlflow` <sub>(2026-05-10)</sub>
-
-📝 Opened issue [[Feature] Built-in feature drift detection with alerting](https://github.com/feast-dev/feast) in `feast-dev/feast` <sub>(2026-05-09)</sub>
-
-💬 Commented on [[Bug] Gemma4 doesn't support HiCache file/L3 storage](https://github.com/sgl-project/sglang) in `sgl-project/sglang` <sub>(2026-05-09)</sub>
-
-⭐ Starred `EvolvingLMMs-Lab/NEO` <sub>(2026-05-09)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -336,7 +336,7 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-12 10:42 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-13 10:42 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
