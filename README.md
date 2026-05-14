@@ -309,6 +309,8 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Real-time Data Streams for ML
+
 🔬 Synthetic Data Generation for Rare Event Simulation
 
 🔬 Real-Time Inference with Low Latency for Foundation Models
@@ -318,8 +320,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 🔬 Graph RAG and Knowledge Graphs for LLMs
 
 🔬 Explainable AI for Deep Learning Models
-
-🔬 Real-Time Data Quality Monitoring for ML Pipelines
 <!-- RESEARCH_END -->
 
 ---
@@ -336,7 +336,7 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-13 10:42 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-14 10:34 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
