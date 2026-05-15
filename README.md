@@ -285,21 +285,21 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [[Feature] Automatic LoRA rank recommendation based on datase](https://github.com/axolotl-ai-cloud/axolotl) in `axolotl-ai-cloud/axolotl` <sub>(2026-05-15)</sub>
+
+⭐ Starred `jonyzhang2023/awesome-embodied-vla-va-vln` <sub>(2026-05-15)</sub>
+
+⭐ Starred `waybarrios/vllm-mlx` <sub>(2026-05-15)</sub>
+
+⭐ Starred `uni-medical/UniMedVL` <sub>(2026-05-15)</sub>
+
+⭐ Starred `JJJYmmm/Multimodal-RoPEs` <sub>(2026-05-15)</sub>
+
 ⭐ Starred `roomi-fields/notebooklm-mcp` <sub>(2026-05-13)</sub>
 
 ⭐ Starred `markdown-viewer/skills` <sub>(2026-05-13)</sub>
 
 ⭐ Starred `Xthebuilder/JRVS` <sub>(2026-05-13)</sub>
-
-⭐ Starred `walkinglabs/hands-on-modern-rl` <sub>(2026-05-12)</sub>
-
-⭐ Starred `jd-opensource/xllm` <sub>(2026-05-11)</sub>
-
-⭐ Starred `asigatchov/fast-volleyball-tracking-inference` <sub>(2026-05-11)</sub>
-
-💬 Commented on [[dagster-dbt] DbtProjectComponent silently drops isolated db](https://github.com/dagster-io/dagster) in `dagster-io/dagster` <sub>(2026-05-10)</sub>
-
-💬 Commented on [[BUG] openai_compatible gateway provider crashes with KeyErr](https://github.com/mlflow/mlflow) in `mlflow/mlflow` <sub>(2026-05-10)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -309,6 +309,10 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Fine-Tuning Large Language Models Efficiently with Sparse Updates
+
+🔬 Retrieval-Augmented Generation (RAG) with Multi-Modal Data
+
 🔬 Real-time Data Streams for ML
 
 🔬 Synthetic Data Generation for Rare Event Simulation
@@ -316,10 +320,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 🔬 Real-Time Inference with Low Latency for Foundation Models
 
 🔬 Fine-Tuning Large Multimodal Models (LLMs + Visual + Audio) for Enterprise Applications
-
-🔬 Graph RAG and Knowledge Graphs for LLMs
-
-🔬 Explainable AI for Deep Learning Models
 <!-- RESEARCH_END -->
 
 ---
@@ -336,7 +336,7 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-14 10:34 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-15 10:40 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
