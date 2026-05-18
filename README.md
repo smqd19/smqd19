@@ -234,6 +234,16 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-05-18-multi-agent-ai-orchestration-patterns.md">
+<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/multi-agent-ai-orchestration-patterns.jpg" width="100%" alt="Multi Agent Ai Orchestration Patterns"/>
+</a>
+
+**[Multi Agent Ai Orchestration Patterns](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-05-18-multi-agent-ai-orchestration-patterns.md)**
+<br/><sub>2026-05-18</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-05-17-real-time-data-quality-monitoring-for-ml-systems.md">
 <img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/real-time-data-quality-monitoring-for-ml.jpg" width="100%" alt="Real Time Data Quality Monitoring For Ml Systems"/>
 </a>
@@ -242,6 +252,8 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <br/><sub>2026-05-17</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-05-16-retrieval-augmented-generation-rag-at-scale-in-e.md">
@@ -252,8 +264,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <br/><sub>2026-05-16</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-05-11-fine-tuning-large-multimodal-models-llms--visual.md">
@@ -262,16 +272,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 **[Fine Tuning Large Multimodal Models Llms  Visual](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-05-11-fine-tuning-large-multimodal-models-llms--visual.md)**
 <br/><sub>2026-05-11</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-05-10-graph-rag-and-knowledge-graphs-for-llms.md">
-<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/graph-rag-and-knowledge-graphs-for-llms.jpg" width="100%" alt="Graph Rag And Knowledge Graphs For Llms"/>
-</a>
-
-**[Graph Rag And Knowledge Graphs For Llms](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-05-10-graph-rag-and-knowledge-graphs-for-llms.md)**
-<br/><sub>2026-05-10</sub>
 
 </td>
 </tr>
@@ -285,6 +285,12 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [[Bug]: Cloud agent 500: Sandbox failed to start within 120s:](https://github.com/OpenHands/OpenHands) in `OpenHands/OpenHands` <sub>(2026-05-18)</sub>
+
+💬 Commented on [[Data] Add peak object store memory usage metric to Ray Data](https://github.com/ray-project/ray) in `ray-project/ray` <sub>(2026-05-18)</sub>
+
+⭐ Starred `brandonhimpfen/awesome-ai-infrastructure` <sub>(2026-05-18)</sub>
+
 💬 Commented on [🎯 AI Agents: Claim tasks and execute them here](https://github.com/langchain-ai/langgraph) in `langchain-ai/langgraph` <sub>(2026-05-17)</sub>
 
 ⭐ Starred `aws-samples/sample-genai-on-eks-starter-kit` <sub>(2026-05-17)</sub>
@@ -294,12 +300,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ⭐ Starred `tensorflow/tflite-micro` <sub>(2026-05-17)</sub>
 
 ⭐ Starred `QuantumLeaps/qpcpp` <sub>(2026-05-17)</sub>
-
-💬 Commented on [Filtered Aliases (Alias + Default Query Filter)](https://github.com/qdrant/qdrant) in `qdrant/qdrant` <sub>(2026-05-16)</sub>
-
-💬 Commented on [[Bug]: ValueError when ChatMessage contains multiple blocks ](https://github.com/run-llama/llama_index) in `run-llama/llama_index` <sub>(2026-05-16)</sub>
-
-⭐ Starred `MatthewK78/Rose` <sub>(2026-05-16)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -309,6 +309,10 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Agentic Coding Assistants Architecture
+
+🔬 Multi-Agent AI Orchestration Patterns
+
 🔬 Real-time Data Quality Monitoring for ML Systems
 
 🔬 Retrieval-Augmented Generation (RAG) at Scale in Enterprise Workflows
@@ -316,10 +320,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 🔬 Fine-Tuning Large Language Models Efficiently with Sparse Updates
 
 🔬 Retrieval-Augmented Generation (RAG) with Multi-Modal Data
-
-🔬 Real-time Data Streams for ML
-
-🔬 Synthetic Data Generation for Rare Event Simulation
 <!-- RESEARCH_END -->
 
 ---
@@ -336,7 +336,7 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-17 10:01 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-18 11:57 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
