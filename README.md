@@ -309,6 +309,10 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Real-Time Data Quality Monitoring for ML
+
+🔬 Explainability and Transparency in ML Systems
+
 🔬 Agentic Coding Assistants Architecture
 
 🔬 Multi-Agent AI Orchestration Patterns
@@ -316,10 +320,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 🔬 Real-time Data Quality Monitoring for ML Systems
 
 🔬 Retrieval-Augmented Generation (RAG) at Scale in Enterprise Workflows
-
-🔬 Fine-Tuning Large Language Models Efficiently with Sparse Updates
-
-🔬 Retrieval-Augmented Generation (RAG) with Multi-Modal Data
 <!-- RESEARCH_END -->
 
 ---
@@ -336,7 +336,7 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-18 11:57 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-19 11:30 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
