@@ -285,6 +285,12 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `Protocol-Lattice/go-agent` <sub>(2026-05-21)</sub>
+
+⭐ Starred `DecapodLabs/decapod` <sub>(2026-05-21)</sub>
+
+⭐ Starred `kyegomez/swarms` <sub>(2026-05-21)</sub>
+
 💬 Commented on [GRPOTrainer silently uses near-greedy decoding when temperat](https://github.com/huggingface/trl) in `huggingface/trl` <sub>(2026-05-20)</sub>
 
 ⭐ Starred `weaviate/Verba` <sub>(2026-05-20)</sub>
@@ -294,12 +300,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ⭐ Starred `LHRLAB/HyperGraphRAG` <sub>(2026-05-20)</sub>
 
 ⭐ Starred `SAP-samples/btp-cap-genai-rag` <sub>(2026-05-20)</sub>
-
-💬 Commented on [[Bug]: Cloud agent 500: Sandbox failed to start within 120s:](https://github.com/OpenHands/OpenHands) in `OpenHands/OpenHands` <sub>(2026-05-18)</sub>
-
-💬 Commented on [[Data] Add peak object store memory usage metric to Ray Data](https://github.com/ray-project/ray) in `ray-project/ray` <sub>(2026-05-18)</sub>
-
-⭐ Starred `brandonhimpfen/awesome-ai-infrastructure` <sub>(2026-05-18)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -309,6 +309,10 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Retrieval-Augmented Generation (RAG) in Real-Time Applications
+
+🔬 Fine-tuning Large Language Models on Proprietary Data
+
 🔬 Retrieval-Augmented Generation (RAG) with Structured Data
 
 🔬 Production-Ready Small Language Models (SLMs)
@@ -316,10 +320,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 🔬 Real-Time Data Quality Monitoring for ML
 
 🔬 Explainability and Transparency in ML Systems
-
-🔬 Agentic Coding Assistants Architecture
-
-🔬 Multi-Agent AI Orchestration Patterns
 <!-- RESEARCH_END -->
 
 ---
@@ -336,7 +336,7 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-20 11:20 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-21 11:39 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
