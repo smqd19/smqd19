@@ -285,21 +285,21 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [[Feature Request] UI/UX & Configuration Suggestions](https://github.com/unslothai/unsloth) in `unslothai/unsloth` <sub>(2026-05-24)</sub>
+
+⭐ Starred `marieai/marie-ai` <sub>(2026-05-24)</sub>
+
+⭐ Starred `weifuwan/seatunnel-web` <sub>(2026-05-24)</sub>
+
+⭐ Starred `ion-elgreco/rivers` <sub>(2026-05-24)</sub>
+
+⭐ Starred `Avaiga/taipy` <sub>(2026-05-24)</sub>
+
 💬 Commented on [遇到不是中文回答，还带有一些特定符号](https://github.com/hiyouga/LlamaFactory) in `hiyouga/LlamaFactory` <sub>(2026-05-23)</sub>
 
 💬 Commented on [[Feature Request]:  Make onnxruntime optional & add native h](https://github.com/chroma-core/chroma) in `chroma-core/chroma` <sub>(2026-05-23)</sub>
 
 ⭐ Starred `maze-agent/Maze` <sub>(2026-05-23)</sub>
-
-⭐ Starred `langchain-ai/langchain` <sub>(2026-05-23)</sub>
-
-⭐ Starred `opensolon/solon-ai` <sub>(2026-05-23)</sub>
-
-💬 Commented on [[Serve] Ray Head Node IDLE Worker Leak Causes OOM](https://github.com/ray-project/ray) in `ray-project/ray` <sub>(2026-05-22)</sub>
-
-💬 Commented on [Extend enable/disable/set-state to all feature view types an](https://github.com/feast-dev/feast) in `feast-dev/feast` <sub>(2026-05-22)</sub>
-
-⭐ Starred `acados/acados` <sub>(2026-05-22)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -309,6 +309,10 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Reinforcement Learning from Human Feedback (RLHF) for LLMs
+
+🔬 Real-time Anomaly Detection in Streaming Data
+
 🔬 Agentic Coding Assistants Architecture
 
 🔬 Open Weight Optimization for Fine-Tuned LLMs
@@ -316,10 +320,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 🔬 Real-time Generative AI in Edge Devices
 
 🔬 Retrieval-Augmented Generation (RAG) in Real-Time Applications
-
-🔬 Fine-tuning Large Language Models on Proprietary Data
-
-🔬 Retrieval-Augmented Generation (RAG) with Structured Data
 <!-- RESEARCH_END -->
 
 ---
@@ -336,7 +336,7 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-23 10:05 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-24 10:08 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
