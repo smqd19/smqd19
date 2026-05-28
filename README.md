@@ -285,6 +285,12 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [[BUG] input_files (PDFFile) are passed as base64 via read_fi](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-05-28)</sub>
+
+⭐ Starred `geoffsmith82/Symposium2023` <sub>(2026-05-28)</sub>
+
+⭐ Starred `modelscope/FunClip` <sub>(2026-05-28)</sub>
+
 💬 Commented on [Flaky test `hnsw_discover_test::filtered_hnsw_discover_preci](https://github.com/qdrant/qdrant) in `qdrant/qdrant` <sub>(2026-05-27)</sub>
 
 ⭐ Starred `martosaur/instructor_lite` <sub>(2026-05-27)</sub>
@@ -294,12 +300,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ⭐ Starred `567-labs/instructor` <sub>(2026-05-27)</sub>
 
 💬 Commented on [[Security] Command Injection via Mermaid `path` Configuratio](https://github.com/FoundationAgents/MetaGPT) in `FoundationAgents/MetaGPT` <sub>(2026-05-25)</sub>
-
-⭐ Starred `oceanbase/pyseekdb` <sub>(2026-05-25)</sub>
-
-⭐ Starred `rocketride-org/rocketride-server` <sub>(2026-05-25)</sub>
-
-⭐ Starred `KxSystems/pykx` <sub>(2026-05-25)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -336,7 +336,7 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-27 11:49 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-28 11:49 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
