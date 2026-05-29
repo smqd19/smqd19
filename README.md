@@ -285,6 +285,8 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [What  is the Future of Ragas ?](https://github.com/vibrantlabsai/ragas) in `vibrantlabsai/ragas` <sub>(2026-05-29)</sub>
+
 💬 Commented on [[BUG] input_files (PDFFile) are passed as base64 via read_fi](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-05-28)</sub>
 
 ⭐ Starred `geoffsmith82/Symposium2023` <sub>(2026-05-28)</sub>
@@ -298,8 +300,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ⭐ Starred `Starlight143/crucible` <sub>(2026-05-27)</sub>
 
 ⭐ Starred `567-labs/instructor` <sub>(2026-05-27)</sub>
-
-💬 Commented on [[Security] Command Injection via Mermaid `path` Configuratio](https://github.com/FoundationAgents/MetaGPT) in `FoundationAgents/MetaGPT` <sub>(2026-05-25)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -309,6 +309,10 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 AI Safety and Alignment Engineering
+
+🔬 Production RAG Pipelines with Re-ranking
+
 🔬 Automated Machine Learning (AutoML) for Production
 
 🔬 Real-Time Data Streams for ML Model Training
@@ -316,10 +320,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 🔬 Synthetic Data Generation for Model Robustness
 
 🔬 Fine-tuning Open-Source LLMs for Domain-Specific Chatbots
-
-🔬 Reinforcement Learning from Human Feedback (RLHF) for LLMs
-
-🔬 Real-time Anomaly Detection in Streaming Data
 <!-- RESEARCH_END -->
 
 ---
@@ -336,7 +336,7 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-28 11:49 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-29 11:42 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
