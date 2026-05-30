@@ -234,6 +234,16 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-05-30-graph-rag-and-knowledge-graphs-for-llms.md">
+<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/graph-rag-and-knowledge-graphs-for-llms.jpg" width="100%" alt="Graph Rag And Knowledge Graphs For Llms"/>
+</a>
+
+**[Graph Rag And Knowledge Graphs For Llms](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-05-30-graph-rag-and-knowledge-graphs-for-llms.md)**
+<br/><sub>2026-05-30</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-05-22-real-time-generative-ai-in-edge-devices.md">
 <img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/real-time-generative-ai-in-edge-devices.jpg" width="100%" alt="Real Time Generative Ai In Edge Devices"/>
 </a>
@@ -242,6 +252,8 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <br/><sub>2026-05-22</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-05-20-production-ready-small-language-models-slms.md">
@@ -252,8 +264,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <br/><sub>2026-05-20</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-05-18-multi-agent-ai-orchestration-patterns.md">
@@ -262,16 +272,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 **[Multi Agent Ai Orchestration Patterns](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-05-18-multi-agent-ai-orchestration-patterns.md)**
 <br/><sub>2026-05-18</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-05-17-real-time-data-quality-monitoring-for-ml-systems.md">
-<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/real-time-data-quality-monitoring-for-ml.jpg" width="100%" alt="Real Time Data Quality Monitoring For Ml Systems"/>
-</a>
-
-**[Real Time Data Quality Monitoring For Ml Systems](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-05-17-real-time-data-quality-monitoring-for-ml-systems.md)**
-<br/><sub>2026-05-17</sub>
 
 </td>
 </tr>
@@ -285,6 +285,8 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `BinWang28/audio-ai-hub` <sub>(2026-05-30)</sub>
+
 💬 Commented on [What  is the Future of Ragas ?](https://github.com/vibrantlabsai/ragas) in `vibrantlabsai/ragas` <sub>(2026-05-29)</sub>
 
 💬 Commented on [[BUG] input_files (PDFFile) are passed as base64 via read_fi](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-05-28)</sub>
@@ -298,8 +300,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ⭐ Starred `martosaur/instructor_lite` <sub>(2026-05-27)</sub>
 
 ⭐ Starred `Starlight143/crucible` <sub>(2026-05-27)</sub>
-
-⭐ Starred `567-labs/instructor` <sub>(2026-05-27)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -309,6 +309,10 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Production RAG Pipelines with Re-ranking
+
+🔬 Graph RAG and Knowledge Graphs for LLMs
+
 🔬 AI Safety and Alignment Engineering
 
 🔬 Production RAG Pipelines with Re-ranking
@@ -316,10 +320,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 🔬 Automated Machine Learning (AutoML) for Production
 
 🔬 Real-Time Data Streams for ML Model Training
-
-🔬 Synthetic Data Generation for Model Robustness
-
-🔬 Fine-tuning Open-Source LLMs for Domain-Specific Chatbots
 <!-- RESEARCH_END -->
 
 ---
@@ -336,7 +336,7 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-29 11:42 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-30 10:13 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
