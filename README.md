@@ -285,21 +285,21 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [Cannot quantize YOLOv26 model using model.export()](https://github.com/ultralytics/ultralytics) in `ultralytics/ultralytics` <sub>(2026-05-31)</sub>
+
+💬 Commented on [[Feature Request] Improved pattern matcher for AR+residual_a](https://github.com/NVIDIA/TensorRT-LLM) in `NVIDIA/TensorRT-LLM` <sub>(2026-05-31)</sub>
+
+⭐ Starred `leosssvip-dot/remotion-ad-video-skill` <sub>(2026-05-31)</sub>
+
+⭐ Starred `shuvonsec/claude-bug-bounty` <sub>(2026-05-31)</sub>
+
+⭐ Starred `adammpkins/llama-terminal-completion` <sub>(2026-05-31)</sub>
+
+⭐ Starred `dynamics365ninja/d365fo-mcp-server` <sub>(2026-05-31)</sub>
+
+⭐ Starred `existential-birds/beagle` <sub>(2026-05-31)</sub>
+
 ⭐ Starred `BinWang28/audio-ai-hub` <sub>(2026-05-30)</sub>
-
-💬 Commented on [What  is the Future of Ragas ?](https://github.com/vibrantlabsai/ragas) in `vibrantlabsai/ragas` <sub>(2026-05-29)</sub>
-
-💬 Commented on [[BUG] input_files (PDFFile) are passed as base64 via read_fi](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-05-28)</sub>
-
-⭐ Starred `geoffsmith82/Symposium2023` <sub>(2026-05-28)</sub>
-
-⭐ Starred `modelscope/FunClip` <sub>(2026-05-28)</sub>
-
-💬 Commented on [Flaky test `hnsw_discover_test::filtered_hnsw_discover_preci](https://github.com/qdrant/qdrant) in `qdrant/qdrant` <sub>(2026-05-27)</sub>
-
-⭐ Starred `martosaur/instructor_lite` <sub>(2026-05-27)</sub>
-
-⭐ Starred `Starlight143/crucible` <sub>(2026-05-27)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -336,7 +336,7 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-30 10:13 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-31 10:25 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
