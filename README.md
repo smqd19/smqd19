@@ -234,6 +234,28 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-02-explainable-ai-for-model-monitoring-and-debugging.md">
+<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/explainable-ai-for-model-monitoring-and.jpg" width="100%" alt="Explainable Ai For Model Monitoring And Debugging"/>
+</a>
+
+**[Explainable Ai For Model Monitoring And Debugging](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-02-explainable-ai-for-model-monitoring-and-debugging.md)**
+<br/><sub>2026-06-02</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-01-multi-agent-llm-systems-in-production.md">
+<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/multi-agent-llm-systems-in-production.jpg" width="100%" alt="Multi Agent Llm Systems In Production"/>
+</a>
+
+**[Multi Agent Llm Systems In Production](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-01-multi-agent-llm-systems-in-production.md)**
+<br/><sub>2026-06-01</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-05-30-graph-rag-and-knowledge-graphs-for-llms.md">
 <img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/graph-rag-and-knowledge-graphs-for-llms.jpg" width="100%" alt="Graph Rag And Knowledge Graphs For Llms"/>
 </a>
@@ -253,28 +275,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-05-20-production-ready-small-language-models-slms.md">
-<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/production-ready-small-language-models-s.jpg" width="100%" alt="Production Ready Small Language Models Slms"/>
-</a>
-
-**[Production Ready Small Language Models Slms](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-05-20-production-ready-small-language-models-slms.md)**
-<br/><sub>2026-05-20</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-05-18-multi-agent-ai-orchestration-patterns.md">
-<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/multi-agent-ai-orchestration-patterns.jpg" width="100%" alt="Multi Agent Ai Orchestration Patterns"/>
-</a>
-
-**[Multi Agent Ai Orchestration Patterns](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-05-18-multi-agent-ai-orchestration-patterns.md)**
-<br/><sub>2026-05-18</sub>
-
-</td>
-</tr>
 </table>
 
 [📚 View all articles →](https://github.com/smqd19/AI-Engineering-Notes)
@@ -285,21 +285,21 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [Cannot quantize YOLOv26 model using model.export()](https://github.com/ultralytics/ultralytics) in `ultralytics/ultralytics` <sub>(2026-05-31)</sub>
+⭐ Starred `langchain4j/langchain4j` <sub>(2026-06-02)</sub>
 
-💬 Commented on [[Feature Request] Improved pattern matcher for AR+residual_a](https://github.com/NVIDIA/TensorRT-LLM) in `NVIDIA/TensorRT-LLM` <sub>(2026-05-31)</sub>
+⭐ Starred `johnxie/awesome-code-docs` <sub>(2026-06-02)</sub>
 
-⭐ Starred `leosssvip-dot/remotion-ad-video-skill` <sub>(2026-05-31)</sub>
+⭐ Starred `framerslab/agentos` <sub>(2026-06-02)</sub>
 
-⭐ Starred `shuvonsec/claude-bug-bounty` <sub>(2026-05-31)</sub>
+⭐ Starred `ZJU-REAL/Awesome-GUI-Agents` <sub>(2026-06-02)</sub>
 
-⭐ Starred `adammpkins/llama-terminal-completion` <sub>(2026-05-31)</sub>
+💬 Commented on [Proposal: Content-addressed adapter recipes for cross-platfo](https://github.com/huggingface/peft) in `huggingface/peft` <sub>(2026-06-01)</sub>
 
-⭐ Starred `dynamics365ninja/d365fo-mcp-server` <sub>(2026-05-31)</sub>
+💬 Commented on [Feature Request: Add FunASR for voice-enabled AI agents](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-06-01)</sub>
 
-⭐ Starred `existential-birds/beagle` <sub>(2026-05-31)</sub>
+⭐ Starred `damionrashford/RivalSearchMCP` <sub>(2026-06-01)</sub>
 
-⭐ Starred `BinWang28/audio-ai-hub` <sub>(2026-05-30)</sub>
+⭐ Starred `SeraphimSerapis/tool-eval-bench` <sub>(2026-06-01)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -309,17 +309,17 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Synthetic Data Generation for ML Training
+
+🔬 Explainable AI for Model Monitoring and Debugging
+
+🔬 Multi-Agent LLM Systems in Production
+
 🔬 Production RAG Pipelines with Re-ranking
 
 🔬 Graph RAG and Knowledge Graphs for LLMs
 
 🔬 AI Safety and Alignment Engineering
-
-🔬 Production RAG Pipelines with Re-ranking
-
-🔬 Automated Machine Learning (AutoML) for Production
-
-🔬 Real-Time Data Streams for ML Model Training
 <!-- RESEARCH_END -->
 
 ---
@@ -336,7 +336,7 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-31 10:25 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-02 12:16 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
