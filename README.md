@@ -234,6 +234,16 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-04-multi-modal-generative-ai-systems-in-production.md">
+<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/multi-modal-generative-ai-systems-in-pro.jpg" width="100%" alt="Multi Modal Generative Ai Systems In Production"/>
+</a>
+
+**[Multi Modal Generative Ai Systems In Production](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-04-multi-modal-generative-ai-systems-in-production.md)**
+<br/><sub>2026-06-04</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-02-explainable-ai-for-model-monitoring-and-debugging.md">
 <img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/explainable-ai-for-model-monitoring-and.jpg" width="100%" alt="Explainable Ai For Model Monitoring And Debugging"/>
 </a>
@@ -242,6 +252,8 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <br/><sub>2026-06-02</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-01-multi-agent-llm-systems-in-production.md">
@@ -252,8 +264,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <br/><sub>2026-06-01</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-05-30-graph-rag-and-knowledge-graphs-for-llms.md">
@@ -262,16 +272,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 **[Graph Rag And Knowledge Graphs For Llms](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-05-30-graph-rag-and-knowledge-graphs-for-llms.md)**
 <br/><sub>2026-05-30</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-05-22-real-time-generative-ai-in-edge-devices.md">
-<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/real-time-generative-ai-in-edge-devices.jpg" width="100%" alt="Real Time Generative Ai In Edge Devices"/>
-</a>
-
-**[Real Time Generative Ai In Edge Devices](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-05-22-real-time-generative-ai-in-edge-devices.md)**
-<br/><sub>2026-05-22</sub>
 
 </td>
 </tr>
@@ -285,21 +285,21 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+📝 Opened issue [[Feature] Native support for ColBERT-style late interaction ](https://github.com/neuml/txtai) in `neuml/txtai` <sub>(2026-06-04)</sub>
+
+⭐ Starred `aozyildirim/Agena` <sub>(2026-06-04)</sub>
+
+⭐ Starred `salesforce/CodeRL` <sub>(2026-06-04)</sub>
+
+⭐ Starred `rextanka/zero-cost-cline` <sub>(2026-06-04)</sub>
+
+⭐ Starred `the-open-agent/openagent` <sub>(2026-06-04)</sub>
+
+💬 Commented on [BM25: no supported way to disable stemming; language: "none"](https://github.com/qdrant/qdrant) in `qdrant/qdrant` <sub>(2026-06-03)</sub>
+
+💬 Commented on [[core] Provides native profiling for C++ processes](https://github.com/ray-project/ray) in `ray-project/ray` <sub>(2026-06-03)</sub>
+
 ⭐ Starred `langchain4j/langchain4j` <sub>(2026-06-02)</sub>
-
-⭐ Starred `johnxie/awesome-code-docs` <sub>(2026-06-02)</sub>
-
-⭐ Starred `framerslab/agentos` <sub>(2026-06-02)</sub>
-
-⭐ Starred `ZJU-REAL/Awesome-GUI-Agents` <sub>(2026-06-02)</sub>
-
-💬 Commented on [Proposal: Content-addressed adapter recipes for cross-platfo](https://github.com/huggingface/peft) in `huggingface/peft` <sub>(2026-06-01)</sub>
-
-💬 Commented on [Feature Request: Add FunASR for voice-enabled AI agents](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-06-01)</sub>
-
-⭐ Starred `damionrashford/RivalSearchMCP` <sub>(2026-06-01)</sub>
-
-⭐ Starred `SeraphimSerapis/tool-eval-bench` <sub>(2026-06-01)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -309,6 +309,8 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Multi-modal Generative AI Systems in Production
+
 🔬 Synthetic Data Generation for ML Training
 
 🔬 Explainable AI for Model Monitoring and Debugging
@@ -318,8 +320,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 🔬 Production RAG Pipelines with Re-ranking
 
 🔬 Graph RAG and Knowledge Graphs for LLMs
-
-🔬 AI Safety and Alignment Engineering
 <!-- RESEARCH_END -->
 
 ---
@@ -336,7 +336,7 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-02 12:16 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-04 11:27 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
