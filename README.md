@@ -234,6 +234,16 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-07-fine-tuning-large-language-models-llms-with-low-.md">
+<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/fine-tuning-large-language-models-llms-w.jpg" width="100%" alt="Fine Tuning Large Language Models Llms With Low "/>
+</a>
+
+**[Fine Tuning Large Language Models Llms With Low ](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-07-fine-tuning-large-language-models-llms-with-low-.md)**
+<br/><sub>2026-06-07</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-06-explainable-ai-for-high-stakes-decision-making.md">
 <img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/explainable-ai-for-high-stakes-decision.jpg" width="100%" alt="Explainable Ai For High Stakes Decision Making"/>
 </a>
@@ -242,6 +252,8 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <br/><sub>2026-06-06</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-05-efficient-fine-tuning-of-large-language-models-in-.md">
@@ -252,8 +264,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <br/><sub>2026-06-05</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-04-multi-modal-generative-ai-systems-in-production.md">
@@ -262,16 +272,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 **[Multi Modal Generative Ai Systems In Production](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-04-multi-modal-generative-ai-systems-in-production.md)**
 <br/><sub>2026-06-04</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-02-explainable-ai-for-model-monitoring-and-debugging.md">
-<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/explainable-ai-for-model-monitoring-and.jpg" width="100%" alt="Explainable Ai For Model Monitoring And Debugging"/>
-</a>
-
-**[Explainable Ai For Model Monitoring And Debugging](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-02-explainable-ai-for-model-monitoring-and-debugging.md)**
-<br/><sub>2026-06-02</sub>
 
 </td>
 </tr>
@@ -285,6 +285,14 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [Transformer Engine plugin fails to check weight exists for L](https://github.com/Lightning-AI/pytorch-lightning) in `Lightning-AI/pytorch-lightning` <sub>(2026-06-07)</sub>
+
+⭐ Starred `MarcoPorcellato/matryca-plumber` <sub>(2026-06-07)</sub>
+
+⭐ Starred `baskduf/harness-starter-kit` <sub>(2026-06-07)</sub>
+
+⭐ Starred `ChrisChen667788/wind-comic` <sub>(2026-06-07)</sub>
+
 💬 Commented on [default_cache_key collides distinct inputs that share tobyte](https://github.com/langchain-ai/langgraph) in `langchain-ai/langgraph` <sub>(2026-06-06)</sub>
 
 💬 Commented on [[FEATURE] Add persistent cross-session memory via Agent Magn](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-06-05)</sub>
@@ -292,14 +300,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 💬 Commented on [Incorrect class name in deprecation warning for LLMContextPr](https://github.com/vibrantlabsai/ragas) in `vibrantlabsai/ragas` <sub>(2026-06-05)</sub>
 
 ⭐ Starred `hoangsonww/AI-Agents-Orchestrator` <sub>(2026-06-05)</sub>
-
-⭐ Starred `doiito/gliding_horse` <sub>(2026-06-05)</sub>
-
-⭐ Starred `DemonDamon/AgenticX` <sub>(2026-06-05)</sub>
-
-⭐ Starred `gastownhall/gascity` <sub>(2026-06-05)</sub>
-
-📝 Opened issue [[Feature] Native support for ColBERT-style late interaction ](https://github.com/neuml/txtai) in `neuml/txtai` <sub>(2026-06-04)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -309,6 +309,8 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Fine-tuning Large Language Models (LLMs) with Low-Rank Adaptation (LoRA)
+
 🔬 Edge AI for Real-Time Computer Vision
 
 🔬 Explainable AI for High-Stakes Decision Making
@@ -318,8 +320,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 🔬 Efficient Fine-Tuning of Large Language Models in Production
 
 🔬 Multi-modal Generative AI Systems in Production
-
-🔬 Synthetic Data Generation for ML Training
 <!-- RESEARCH_END -->
 
 ---
@@ -336,7 +336,7 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-06 10:17 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-07 10:41 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
