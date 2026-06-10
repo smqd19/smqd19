@@ -234,6 +234,28 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-10-edge-ai-for-iot-applications.md">
+<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/edge-ai-for-iot-applications.jpg" width="100%" alt="Edge Ai For Iot Applications"/>
+</a>
+
+**[Edge Ai For Iot Applications](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-10-edge-ai-for-iot-applications.md)**
+<br/><sub>2026-06-10</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-09-real-time-ai-inference-optimization.md">
+<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/real-time-ai-inference-optimization.jpg" width="100%" alt="Real Time Ai Inference Optimization"/>
+</a>
+
+**[Real Time Ai Inference Optimization](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-09-real-time-ai-inference-optimization.md)**
+<br/><sub>2026-06-09</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-07-fine-tuning-large-language-models-llms-with-low-.md">
 <img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/fine-tuning-large-language-models-llms-w.jpg" width="100%" alt="Fine Tuning Large Language Models Llms With Low "/>
 </a>
@@ -253,28 +275,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-05-efficient-fine-tuning-of-large-language-models-in-.md">
-<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/efficient-fine-tuning-of-large-language.jpg" width="100%" alt="Efficient Fine Tuning Of Large Language Models In "/>
-</a>
-
-**[Efficient Fine Tuning Of Large Language Models In ](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-05-efficient-fine-tuning-of-large-language-models-in-.md)**
-<br/><sub>2026-06-05</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-04-multi-modal-generative-ai-systems-in-production.md">
-<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/multi-modal-generative-ai-systems-in-pro.jpg" width="100%" alt="Multi Modal Generative Ai Systems In Production"/>
-</a>
-
-**[Multi Modal Generative Ai Systems In Production](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-04-multi-modal-generative-ai-systems-in-production.md)**
-<br/><sub>2026-06-04</sub>
-
-</td>
-</tr>
 </table>
 
 [📚 View all articles →](https://github.com/smqd19/AI-Engineering-Notes)
@@ -285,21 +285,21 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [Clarify Qdrant multivector size limit and whether it is conf](https://github.com/qdrant/qdrant) in `qdrant/qdrant` <sub>(2026-06-10)</sub>
+
+⭐ Starred `verl-project/verl-omni` <sub>(2026-06-10)</sub>
+
+⭐ Starred `NVlabs/FastGen` <sub>(2026-06-10)</sub>
+
+⭐ Starred `butaixianran/Stable-Diffusion-Webui-Civitai-Helper` <sub>(2026-06-10)</sub>
+
+⭐ Starred `Guowei-Zou/dmpo-release` <sub>(2026-06-10)</sub>
+
+💬 Commented on [[AutoDeploy]:  Investigate streaming runtime knobs and apply](https://github.com/NVIDIA/TensorRT-LLM) in `NVIDIA/TensorRT-LLM` <sub>(2026-06-09)</sub>
+
+⭐ Starred `DataTalksClub/machine-learning-zoomcamp` <sub>(2026-06-09)</sub>
+
 ⭐ Starred `ndcorder/outputguard` <sub>(2026-06-08)</sub>
-
-💬 Commented on [Transformer Engine plugin fails to check weight exists for L](https://github.com/Lightning-AI/pytorch-lightning) in `Lightning-AI/pytorch-lightning` <sub>(2026-06-07)</sub>
-
-⭐ Starred `MarcoPorcellato/matryca-plumber` <sub>(2026-06-07)</sub>
-
-⭐ Starred `baskduf/harness-starter-kit` <sub>(2026-06-07)</sub>
-
-⭐ Starred `ChrisChen667788/wind-comic` <sub>(2026-06-07)</sub>
-
-💬 Commented on [default_cache_key collides distinct inputs that share tobyte](https://github.com/langchain-ai/langgraph) in `langchain-ai/langgraph` <sub>(2026-06-06)</sub>
-
-💬 Commented on [[FEATURE] Add persistent cross-session memory via Agent Magn](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-06-05)</sub>
-
-💬 Commented on [Incorrect class name in deprecation warning for LLMContextPr](https://github.com/vibrantlabsai/ragas) in `vibrantlabsai/ragas` <sub>(2026-06-05)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -309,17 +309,17 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Edge AI for IoT Applications
+
+🔬 Production RAG Pipelines with Re-ranking
+
+🔬 Real-Time AI Inference Optimization
+
 🔬 Real-Time Model Serving with GPUs
 
 🔬 Fine-tuning Large Language Models (LLMs) with Low-Rank Adaptation (LoRA)
 
 🔬 Edge AI for Real-Time Computer Vision
-
-🔬 Explainable AI for High-Stakes Decision Making
-
-🔬 Retrieval-Augmented Generation (RAG) with Real-Time Data
-
-🔬 Efficient Fine-Tuning of Large Language Models in Production
 <!-- RESEARCH_END -->
 
 ---
@@ -336,7 +336,7 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-08 12:45 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-10 11:49 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
