@@ -234,6 +234,16 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-14-serverless-machine-learning-inference.md">
+<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/serverless-machine-learning-inference.jpg" width="100%" alt="Serverless Machine Learning Inference"/>
+</a>
+
+**[Serverless Machine Learning Inference](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-14-serverless-machine-learning-inference.md)**
+<br/><sub>2026-06-14</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-13-real-time-ai-inference-optimization.md">
 <img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/real-time-ai-inference-optimization.jpg" width="100%" alt="Real Time Ai Inference Optimization"/>
 </a>
@@ -242,6 +252,8 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <br/><sub>2026-06-13</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-12-dynamic-ai-model-orchestration-in-multi-agent-syst.md">
@@ -252,8 +264,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <br/><sub>2026-06-12</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-10-edge-ai-for-iot-applications.md">
@@ -262,16 +272,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 **[Edge Ai For Iot Applications](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-10-edge-ai-for-iot-applications.md)**
 <br/><sub>2026-06-10</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-09-real-time-ai-inference-optimization.md">
-<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/real-time-ai-inference-optimization.jpg" width="100%" alt="Real Time Ai Inference Optimization"/>
-</a>
-
-**[Real Time Ai Inference Optimization](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-09-real-time-ai-inference-optimization.md)**
-<br/><sub>2026-06-09</sub>
 
 </td>
 </tr>
@@ -285,21 +285,21 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [YOLO Semantic Segmentation Predictions Produce Jagged Lines](https://github.com/ultralytics/ultralytics) in `ultralytics/ultralytics` <sub>(2026-06-14)</sub>
+
+💬 Commented on [[Bug] Potential Context State Leakage in MCP Routing (_mcp_a](https://github.com/BerriAI/litellm) in `BerriAI/litellm` <sub>(2026-06-14)</sub>
+
+⭐ Starred `X-GenGroup/Flow-Factory` <sub>(2026-06-14)</sub>
+
+⭐ Starred `RockeyCoss/LeapAlign_Code` <sub>(2026-06-14)</sub>
+
+⭐ Starred `Tencent/AngelSlim` <sub>(2026-06-14)</sub>
+
 ⭐ Starred `CityMind-Lab/ICML25-TimeVLM` <sub>(2026-06-13)</sub>
 
 💬 Commented on [[BUG] crewai[litellm]==1.14.6 is unsatisfiable due to litell](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-06-11)</sub>
 
 💬 Commented on [Add adapter-only vLLM LoRA sync for GRPO and AsyncGRPO](https://github.com/huggingface/trl) in `huggingface/trl` <sub>(2026-06-11)</sub>
-
-⭐ Starred `Xayan/Rules.txt` <sub>(2026-06-11)</sub>
-
-💬 Commented on [Clarify Qdrant multivector size limit and whether it is conf](https://github.com/qdrant/qdrant) in `qdrant/qdrant` <sub>(2026-06-10)</sub>
-
-⭐ Starred `verl-project/verl-omni` <sub>(2026-06-10)</sub>
-
-⭐ Starred `NVlabs/FastGen` <sub>(2026-06-10)</sub>
-
-⭐ Starred `butaixianran/Stable-Diffusion-Webui-Civitai-Helper` <sub>(2026-06-10)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -309,6 +309,10 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Edge AI for Real-World Computer Vision
+
+🔬 Serverless Machine Learning Inference
+
 🔬 AI Safety and Alignment Engineering
 
 🔬 Real-Time AI Inference Optimization
@@ -316,10 +320,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 🔬 Dynamic AI Model Orchestration in Multi-Agent Systems
 
 🔬 Sparse Fine-tuning for Foundation Models
-
-🔬 Edge AI for IoT Applications
-
-🔬 Production RAG Pipelines with Re-ranking
 <!-- RESEARCH_END -->
 
 ---
@@ -336,7 +336,7 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-13 10:40 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-14 10:58 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
