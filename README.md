@@ -285,6 +285,10 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [ci: streamline GitHub Actions test coverage and runtime](https://github.com/feast-dev/feast) in `feast-dev/feast` <sub>(2026-06-16)</sub>
+
+💬 Commented on [[Feature Request] Document poisoning defense for RAG/agent m](https://github.com/qdrant/qdrant) in `qdrant/qdrant` <sub>(2026-06-16)</sub>
+
 💬 Commented on [YOLO Semantic Segmentation Predictions Produce Jagged Lines](https://github.com/ultralytics/ultralytics) in `ultralytics/ultralytics` <sub>(2026-06-14)</sub>
 
 💬 Commented on [[Bug] Potential Context State Leakage in MCP Routing (_mcp_a](https://github.com/BerriAI/litellm) in `BerriAI/litellm` <sub>(2026-06-14)</sub>
@@ -296,10 +300,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ⭐ Starred `Tencent/AngelSlim` <sub>(2026-06-14)</sub>
 
 ⭐ Starred `CityMind-Lab/ICML25-TimeVLM` <sub>(2026-06-13)</sub>
-
-💬 Commented on [[BUG] crewai[litellm]==1.14.6 is unsatisfiable due to litell](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-06-11)</sub>
-
-💬 Commented on [Add adapter-only vLLM LoRA sync for GRPO and AsyncGRPO](https://github.com/huggingface/trl) in `huggingface/trl` <sub>(2026-06-11)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -309,6 +309,10 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Production RAG Pipelines with Re-ranking
+
+🔬 Multi-Agent AI Orchestration Patterns
+
 🔬 Real-Time Inference Optimization for Large Models
 
 🔬 Fine-Tuning Foundation Models on Domain-Specific Data
@@ -316,10 +320,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 🔬 Edge AI for Real-World Computer Vision
 
 🔬 Serverless Machine Learning Inference
-
-🔬 AI Safety and Alignment Engineering
-
-🔬 Real-Time AI Inference Optimization
 <!-- RESEARCH_END -->
 
 ---
@@ -336,7 +336,7 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-15 14:40 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-16 13:04 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
