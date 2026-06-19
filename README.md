@@ -234,6 +234,16 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-19-federated-learning-for-edge-ai.md">
+<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/federated-learning-for-edge-ai.jpg" width="100%" alt="Federated Learning For Edge Ai"/>
+</a>
+
+**[Federated Learning For Edge Ai](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-19-federated-learning-for-edge-ai.md)**
+<br/><sub>2026-06-19</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-15-fine-tuning-foundation-models-on-domain-specific-d.md">
 <img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/fine-tuning-foundation-models-on-domain.jpg" width="100%" alt="Fine Tuning Foundation Models On Domain Specific D"/>
 </a>
@@ -242,6 +252,8 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <br/><sub>2026-06-15</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-14-serverless-machine-learning-inference.md">
@@ -252,8 +264,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <br/><sub>2026-06-14</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-13-real-time-ai-inference-optimization.md">
@@ -262,16 +272,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 **[Real Time Ai Inference Optimization](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-13-real-time-ai-inference-optimization.md)**
 <br/><sub>2026-06-13</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-12-dynamic-ai-model-orchestration-in-multi-agent-syst.md">
-<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/dynamic-ai-model-orchestration-in-multi.jpg" width="100%" alt="Dynamic Ai Model Orchestration In Multi Agent Syst"/>
-</a>
-
-**[Dynamic Ai Model Orchestration In Multi Agent Syst](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-12-dynamic-ai-model-orchestration-in-multi-agent-syst.md)**
-<br/><sub>2026-06-12</sub>
 
 </td>
 </tr>
@@ -309,6 +309,8 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Federated Learning for Edge AI
+
 🔬 Production RAG Pipelines with Re-ranking
 
 🔬 Multi-Agent AI Orchestration Patterns
@@ -318,8 +320,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 🔬 Fine-Tuning Foundation Models on Domain-Specific Data
 
 🔬 Edge AI for Real-World Computer Vision
-
-🔬 Serverless Machine Learning Inference
 <!-- RESEARCH_END -->
 
 ---
@@ -336,7 +336,7 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-17 12:27 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-19 12:17 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
