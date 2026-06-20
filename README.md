@@ -234,6 +234,16 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-20-multi-modal-foundation-models-in-production.md">
+<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/multi-modal-foundation-models-in-product.jpg" width="100%" alt="Multi Modal Foundation Models In Production"/>
+</a>
+
+**[Multi Modal Foundation Models In Production](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-20-multi-modal-foundation-models-in-production.md)**
+<br/><sub>2026-06-20</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-19-federated-learning-for-edge-ai.md">
 <img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/federated-learning-for-edge-ai.jpg" width="100%" alt="Federated Learning For Edge Ai"/>
 </a>
@@ -242,6 +252,8 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <br/><sub>2026-06-19</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-15-fine-tuning-foundation-models-on-domain-specific-d.md">
@@ -252,8 +264,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <br/><sub>2026-06-15</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-14-serverless-machine-learning-inference.md">
@@ -262,16 +272,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 **[Serverless Machine Learning Inference](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-14-serverless-machine-learning-inference.md)**
 <br/><sub>2026-06-14</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-13-real-time-ai-inference-optimization.md">
-<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/real-time-ai-inference-optimization.jpg" width="100%" alt="Real Time Ai Inference Optimization"/>
-</a>
-
-**[Real Time Ai Inference Optimization](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-13-real-time-ai-inference-optimization.md)**
-<br/><sub>2026-06-13</sub>
 
 </td>
 </tr>
@@ -285,6 +285,8 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `bennyaustin/fabric-accelerator` <sub>(2026-06-20)</sub>
+
 💬 Commented on [ci: streamline GitHub Actions test coverage and runtime](https://github.com/feast-dev/feast) in `feast-dev/feast` <sub>(2026-06-16)</sub>
 
 💬 Commented on [[Feature Request] Document poisoning defense for RAG/agent m](https://github.com/qdrant/qdrant) in `qdrant/qdrant` <sub>(2026-06-16)</sub>
@@ -298,8 +300,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ⭐ Starred `RockeyCoss/LeapAlign_Code` <sub>(2026-06-14)</sub>
 
 ⭐ Starred `Tencent/AngelSlim` <sub>(2026-06-14)</sub>
-
-⭐ Starred `CityMind-Lab/ICML25-TimeVLM` <sub>(2026-06-13)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -309,6 +309,10 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Edge AI with LLM Compression and Quantization
+
+🔬 Multi-Modal Foundation Models in Production
+
 🔬 Federated Learning for Edge AI
 
 🔬 Production RAG Pipelines with Re-ranking
@@ -316,10 +320,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 🔬 Multi-Agent AI Orchestration Patterns
 
 🔬 Real-Time Inference Optimization for Large Models
-
-🔬 Fine-Tuning Foundation Models on Domain-Specific Data
-
-🔬 Edge AI for Real-World Computer Vision
 <!-- RESEARCH_END -->
 
 ---
@@ -336,7 +336,7 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-19 12:17 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-20 10:40 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
