@@ -234,6 +234,28 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-22-automl-for-time-series-forecasting.md">
+<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/automl-for-time-series-forecasting.jpg" width="100%" alt="Automl For Time Series Forecasting"/>
+</a>
+
+**[Automl For Time Series Forecasting](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-22-automl-for-time-series-forecasting.md)**
+<br/><sub>2026-06-22</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-21-efficient-training-and-deployment-of-large-multimo.md">
+<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/efficient-training-and-deployment-of-lar.jpg" width="100%" alt="Efficient Training And Deployment Of Large Multimo"/>
+</a>
+
+**[Efficient Training And Deployment Of Large Multimo](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-21-efficient-training-and-deployment-of-large-multimo.md)**
+<br/><sub>2026-06-21</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-20-multi-modal-foundation-models-in-production.md">
 <img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/multi-modal-foundation-models-in-product.jpg" width="100%" alt="Multi Modal Foundation Models In Production"/>
 </a>
@@ -253,28 +275,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-15-fine-tuning-foundation-models-on-domain-specific-d.md">
-<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/fine-tuning-foundation-models-on-domain.jpg" width="100%" alt="Fine Tuning Foundation Models On Domain Specific D"/>
-</a>
-
-**[Fine Tuning Foundation Models On Domain Specific D](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-15-fine-tuning-foundation-models-on-domain-specific-d.md)**
-<br/><sub>2026-06-15</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-14-serverless-machine-learning-inference.md">
-<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/serverless-machine-learning-inference.jpg" width="100%" alt="Serverless Machine Learning Inference"/>
-</a>
-
-**[Serverless Machine Learning Inference](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-14-serverless-machine-learning-inference.md)**
-<br/><sub>2026-06-14</sub>
-
-</td>
-</tr>
 </table>
 
 [📚 View all articles →](https://github.com/smqd19/AI-Engineering-Notes)
@@ -285,6 +285,8 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `VectorInstitute/fed-rag` <sub>(2026-06-21)</sub>
+
 ⭐ Starred `bennyaustin/fabric-accelerator` <sub>(2026-06-20)</sub>
 
 💬 Commented on [ci: streamline GitHub Actions test coverage and runtime](https://github.com/feast-dev/feast) in `feast-dev/feast` <sub>(2026-06-16)</sub>
@@ -298,8 +300,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ⭐ Starred `X-GenGroup/Flow-Factory` <sub>(2026-06-14)</sub>
 
 ⭐ Starred `RockeyCoss/LeapAlign_Code` <sub>(2026-06-14)</sub>
-
-⭐ Starred `Tencent/AngelSlim` <sub>(2026-06-14)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -309,17 +309,17 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 AutoML for Time Series Forecasting
+
+🔬 RAG-Oriented Retrieval and Indexing for Real-Time Applications
+
+🔬 Efficient Training and Deployment of Large Multimodal Models
+
 🔬 Edge AI with LLM Compression and Quantization
 
 🔬 Multi-Modal Foundation Models in Production
 
 🔬 Federated Learning for Edge AI
-
-🔬 Production RAG Pipelines with Re-ranking
-
-🔬 Multi-Agent AI Orchestration Patterns
-
-🔬 Real-Time Inference Optimization for Large Models
 <!-- RESEARCH_END -->
 
 ---
@@ -336,7 +336,7 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-20 10:40 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-22 13:47 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
