@@ -285,6 +285,8 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `XMUDeepLIT/MemGraphRAG` <sub>(2026-06-21)</sub>
+
 ⭐ Starred `VectorInstitute/fed-rag` <sub>(2026-06-21)</sub>
 
 ⭐ Starred `bennyaustin/fabric-accelerator` <sub>(2026-06-20)</sub>
@@ -298,8 +300,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 💬 Commented on [[Bug] Potential Context State Leakage in MCP Routing (_mcp_a](https://github.com/BerriAI/litellm) in `BerriAI/litellm` <sub>(2026-06-14)</sub>
 
 ⭐ Starred `X-GenGroup/Flow-Factory` <sub>(2026-06-14)</sub>
-
-⭐ Starred `RockeyCoss/LeapAlign_Code` <sub>(2026-06-14)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -336,7 +336,7 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-22 13:47 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-23 11:27 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
