@@ -285,6 +285,10 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `mugisha1555/Aeon-Flux-DeepSeek` <sub>(2026-06-25)</sub>
+
+⭐ Starred `activepieces/activepieces` <sub>(2026-06-25)</sub>
+
 ⭐ Starred `santifer/career-ops` <sub>(2026-06-24)</sub>
 
 ⭐ Starred `XMUDeepLIT/MemGraphRAG` <sub>(2026-06-21)</sub>
@@ -296,10 +300,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 💬 Commented on [ci: streamline GitHub Actions test coverage and runtime](https://github.com/feast-dev/feast) in `feast-dev/feast` <sub>(2026-06-16)</sub>
 
 💬 Commented on [[Feature Request] Document poisoning defense for RAG/agent m](https://github.com/qdrant/qdrant) in `qdrant/qdrant` <sub>(2026-06-16)</sub>
-
-💬 Commented on [YOLO Semantic Segmentation Predictions Produce Jagged Lines](https://github.com/ultralytics/ultralytics) in `ultralytics/ultralytics` <sub>(2026-06-14)</sub>
-
-💬 Commented on [[Bug] Potential Context State Leakage in MCP Routing (_mcp_a](https://github.com/BerriAI/litellm) in `BerriAI/litellm` <sub>(2026-06-14)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -336,7 +336,7 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-24 11:18 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-25 10:52 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
