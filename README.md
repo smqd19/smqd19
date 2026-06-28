@@ -234,6 +234,16 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-27-ai-safety-and-alignment-engineering.md">
+<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/ai-safety-and-alignment-engineering.jpg" width="100%" alt="Ai Safety And Alignment Engineering"/>
+</a>
+
+**[Ai Safety And Alignment Engineering](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-27-ai-safety-and-alignment-engineering.md)**
+<br/><sub>2026-06-27</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-24-explainable-ai-for-model-interpretability.md">
 <img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/explainable-ai-for-model-interpretabilit.jpg" width="100%" alt="Explainable Ai For Model Interpretability"/>
 </a>
@@ -242,6 +252,8 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <br/><sub>2026-06-24</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-22-automl-for-time-series-forecasting.md">
@@ -252,8 +264,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 <br/><sub>2026-06-22</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-21-efficient-training-and-deployment-of-large-multimo.md">
@@ -262,16 +272,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 **[Efficient Training And Deployment Of Large Multimo](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-21-efficient-training-and-deployment-of-large-multimo.md)**
 <br/><sub>2026-06-21</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-20-multi-modal-foundation-models-in-production.md">
-<img src="https://raw.githubusercontent.com/smqd19/AI-Engineering-Notes/main/images/multi-modal-foundation-models-in-product.jpg" width="100%" alt="Multi Modal Foundation Models In Production"/>
-</a>
-
-**[Multi Modal Foundation Models In Production](https://github.com/smqd19/AI-Engineering-Notes/blob/main/articles/2026-06-20-multi-modal-foundation-models-in-production.md)**
-<br/><sub>2026-06-20</sub>
 
 </td>
 </tr>
@@ -285,21 +285,21 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [Add type hints to public API functions](https://github.com/ray-project/ray) in `ray-project/ray` <sub>(2026-06-26)</sub>
+⭐ Starred `AbdelStark/awesome-jepa` <sub>(2026-06-28)</sub>
 
-⭐ Starred `attilaszasz/sdd-pilot` <sub>(2026-06-26)</sub>
+⭐ Starred `gary23w/neuron-db` <sub>(2026-06-28)</sub>
 
-⭐ Starred `patrickdappollonio/dux` <sub>(2026-06-26)</sub>
+⭐ Starred `unslothai/notebooks` <sub>(2026-06-28)</sub>
 
-⭐ Starred `biaogebusy/web-builder` <sub>(2026-06-26)</sub>
+⭐ Starred `cvxpy/cvxpy` <sub>(2026-06-28)</sub>
 
-⭐ Starred `williamzujkowski/live-coding-music-mcp` <sub>(2026-06-26)</sub>
+⭐ Starred `cosai-oasis/project-codeguard` <sub>(2026-06-28)</sub>
 
-⭐ Starred `MaterializeInc/materialize` <sub>(2026-06-25)</sub>
+⭐ Starred `FennelFetish/qapyq` <sub>(2026-06-27)</sub>
 
-⭐ Starred `SHAdd0WTAka/Zen-Ai-Pentest` <sub>(2026-06-25)</sub>
+⭐ Starred `DaoyuanLi2816/llama3-emotion-lora` <sub>(2026-06-27)</sub>
 
-⭐ Starred `mugisha1555/Aeon-Flux-DeepSeek` <sub>(2026-06-25)</sub>
+⭐ Starred `ARahim3/mlx-tune` <sub>(2026-06-27)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -309,6 +309,8 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 AI Safety and Alignment Engineering
+
 🔬 AutoML for Hyperparameter Tuning and Model Selection
 
 🔬 Explainable AI for Model Interpretability
@@ -318,8 +320,6 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 🔬 RAG-Oriented Retrieval and Indexing for Real-Time Applications
 
 🔬 Efficient Training and Deployment of Large Multimodal Models
-
-🔬 Edge AI with LLM Compression and Quantization
 <!-- RESEARCH_END -->
 
 ---
@@ -336,7 +336,7 @@ ARIMA, LSTM, Prophet for crypto price prediction with automated Telegram and Dis
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-26 11:01 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-28 10:35 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
